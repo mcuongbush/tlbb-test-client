@@ -1,0 +1,8 @@
+# Preserve game resource bytes and Windows configuration across Git settings.
+*.obj -text
+*.lua -text
+*.cfg -text
+*.json -text
+*.dll binary
+*.exe binary
+*.cmd text eol=crlf
