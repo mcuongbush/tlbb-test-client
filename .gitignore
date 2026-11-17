@@ -5,6 +5,7 @@
 /ScreenShots/
 /Bin64/ShaderCache/
 /Bin64/WXSystem.cfg
+/Bin64/WXC_*
 /Overlay/Post/*
 !/Overlay/Post/ModelFolder/
 /Overlay/Post/ModelFolder/*
