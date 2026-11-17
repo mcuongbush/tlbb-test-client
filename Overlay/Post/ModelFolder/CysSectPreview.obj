@@ -1,0 +1,1546 @@
+<AllObjects>
+<Object name="女主角丐帮高模.obj">
+    <EntityList>
+        <Entity name="女主角高模1丐帮高级100" file="女主角高模1丐帮高级100.mesh" material="" />
+        <Entity name="女主角高模2丐帮高级100" file="女主角高模2丐帮高级100.mesh" material="" />
+        <Entity name="女主角高模丐帮头发08" file="女主角高模丐帮头发08.mesh" material="" />
+        <Entity name="女主角高模丐帮脸01" file="女主角高模丐帮脸01.mesh" material="" />
+        <Entity name="女主角高模4丐帮高级100" file="女主角高模4丐帮高级100.mesh" material="" />
+        <Entity name="女主角高模3丐帮高级100" file="女主角高模3丐帮高级100.mesh" material="" />
+        <Entity name="丐帮女棍器" file="丐帮女棍器.mesh" material="" />
+    </EntityList>
+    <Locators count="13">
+        <Locator name="头顶状态点" bonename="w_Bip01_Head" x="23.947372" y="0.740989" z="0.000062" qx="0.577349" qy="0.577351" qz="-0.577351" qw="-2.094394" translateFirst="true">
+            <Slot name="头顶状态点" object="" attribs="" />
+        </Locator>
+        <Locator name="右肩" bonename="w_Bip01_R_Clavicle" x="9.090815" y="-1.185979" z="-4.278159" qx="0.087628" qy="0.148163" qz="0.985073" qw="-3.214729" translateFirst="true">
+            <Slot name="右肩" object="" attribs="" />
+        </Locator>
+        <Locator name="左肩" bonename="w_Bip01_L_Clavicle" x="9.090351" y="-1.186105" z="4.278459" qx="0.995386" qy="-0.036969" qz="0.088545" qw="-2.844372" translateFirst="true">
+            <Slot name="左肩" object="" attribs="" />
+        </Locator>
+        <Locator name="左武器绑定点" bonename="w_Bip01_L_Hand" x="7.372944" y="2.088904" z="-1.763870" qx="1.000000" qy="-0.000053" qz="-0.000055" qw="-1.571386" translateFirst="true">
+            <Slot name="左武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="右武器绑定点" bonename="w_Bip01_R_Hand" x="7.372647" y="2.090652" z="1.767472" qx="-1.000000" qy="-0.000007" qz="-0.000001" qw="-1.562651" translateFirst="true">
+            <Slot name="右武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体受击点" bonename="w_Bip01_Spine1" x="4.519468" y="12.341270" z="0.000015" qx="-0.564841" qy="-0.601589" qz="0.564841" qw="-2.058418" translateFirst="true">
+            <Slot name="身体受击点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体中心点" bonename="w_Bip01_Spine1" x="0.977061" y="-3.172703" z="0.000031" qx="0.466249" qy="0.625545" qz="-0.625544" qw="-2.269024" translateFirst="true">
+            <Slot name="身体中心点" object="" attribs="" />
+        </Locator>
+        <Locator name="右足踩地点" bonename="w_Bip01_R_Foot" x="7.743683" y="4.234224" z="-0.185666" qx="-0.577351" qy="-0.577350" qz="-0.577350" qw="-2.094394" translateFirst="true">
+            <Slot name="右足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="脚下光圈点" bonename="" x="0.000000" y="-0.000002" z="0.000000" qx="-0.577350" qy="0.577350" qz="-0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="脚下光圈点" object="" attribs="" />
+        </Locator>
+        <Locator name="左足踩地点" bonename="w_Bip01_L_Foot" x="7.743667" y="4.234134" z="0.185817" qx="0.577351" qy="0.577349" qz="0.577351" qw="-4.188790" translateFirst="true">
+            <Slot name="左足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点1" bonename="Bone55" x="-129.595337" y="0.936789" z="-0.000015" qx="-0.000000" qy="0.000000" qz="-1.000000" qw="-1.564790" translateFirst="true">
+            <Slot name="武器特效点1" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点2" bonename="Bone55" x="-87.381310" y="0.683251" z="-0.000008" qx="-0.000000" qy="0.000000" qz="-1.000000" qw="-1.564790" translateFirst="true">
+            <Slot name="武器特效点2" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点" bonename="Bone55" x="-8.549373" y="0.209786" z="-0.000000" qx="-0.000000" qy="0.000000" qz="-1.000000" qw="-1.564790" translateFirst="true">
+            <Slot name="武器特效点" object="" attribs="" />
+        </Locator>
+    </Locators>
+    <Attributes>
+        <Attribute name="脚下光圈点" value="" hints="SlotCreate" />
+        <Attribute name="身体受击点" value="" hints="SlotCreate" />
+        <Attribute name="身体中心点" value="" hints="SlotCreate" />
+        <Attribute name="头顶状态点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点1" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点2" value="" hints="SlotCreate" />
+        <Attribute name="右肩" value="" hints="SlotCreate" />
+        <Attribute name="右武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="右足踩地点" value="" hints="SlotCreate" />
+        <Attribute name="左肩" value="" hints="SlotCreate" />
+        <Attribute name="左武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="左足踩地点" value="" hints="SlotCreate" />
+    </Attributes>
+    <Effects>
+        <Effect name="1" effect="wq_九大门派神器丐帮棍01" locator="武器特效点" translateAll="true" />
+    </Effects>
+</Object>
+<Object name="女主角大理高模.obj">
+    <EntityList>
+        <Entity name="女主角高模4大理高级100" file="女主角高模4大理高级100.mesh" material="" />
+        <Entity name="女主角高模3大理高级100" file="女主角高模3大理高级100.mesh" material="" />
+        <Entity name="女主角高模2大理高级100" file="女主角高模2大理高级100.mesh" material="" />
+        <Entity name="女主角高模1大理高级100" file="女主角高模1大理高级100.mesh" material="" />
+        <Entity name="女主角高模大理头发08" file="女主角高模大理头发08.mesh" material="" />
+        <Entity name="女主角大理脸高模01" file="女主角大理脸高模01.mesh" material="" />
+        <Entity name="天龙环nv" file="天龙环nv.mesh" material="" />
+        <Entity name="天龙环女" file="天龙环女.mesh" material="" />
+    </EntityList>
+    <Locators count="9">
+        <Locator name="头顶状态点" bonename="w_Bip01_Head" x="37.464798" y="1.376885" z="0.000016" qx="0.577349" qy="0.577351" qz="0.577350" qw="-2.094393" translateFirst="true">
+            <Slot name="头顶状态点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体中心点" bonename="w_Bip01" x="-0.106559" y="-0.000000" z="0.000000" qx="-0.000000" qy="1.000000" qz="-0.000002" qw="-1.570796" translateFirst="true">
+            <Slot name="身体中心点" object="" attribs="" />
+        </Locator>
+        <Locator name="脚下光圈点" bonename="" x="0.000000" y="-0.000002" z="0.000000" qx="-0.577350" qy="0.577350" qz="-0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="脚下光圈点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点03" bonename="w_Bip01_R_Hand" x="29.167585" y="2.362275" z="-0.847054" qx="-0.039012" qy="0.708141" qz="-0.704992" qw="-3.099174" translateFirst="true">
+            <Slot name="武器特效点03" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点04" bonename="" x="72.919899" y="125.426743" z="-0.770797" qx="0.687961" qy="0.558742" qz="0.463160" qw="-4.157550" translateFirst="true">
+            <Slot name="武器特效点04" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点05" bonename="" x="85.830681" y="122.880096" z="-3.446913" qx="0.687961" qy="0.558742" qz="0.463160" qw="-4.157550" translateFirst="true">
+            <Slot name="武器特效点05" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点1" bonename="w_Bip01_L_Hand" x="27.846552" y="-1.466841" z="5.380043" qx="0.980173" qy="0.066725" qz="0.186573" qw="-1.548667" translateFirst="true">
+            <Slot name="武器特效点1" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点" bonename="" x="-73.121819" y="124.125534" z="-0.418011" qx="-0.697626" qy="0.498346" qz="0.514751" qw="-1.874721" translateFirst="true">
+            <Slot name="武器特效点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点2" bonename="" x="-85.772888" y="119.662300" z="0.186257" qx="-0.697626" qy="0.498346" qz="0.514751" qw="-1.874721" translateFirst="true">
+            <Slot name="武器特效点2" object="" attribs="" />
+        </Locator>
+    </Locators>
+    <Attributes>
+        <Attribute name="脚下光圈点" value="" hints="SlotCreate" />
+        <Attribute name="身体中心点" value="" hints="SlotCreate" />
+        <Attribute name="头顶状态点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点03" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点04" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点05" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点1" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点2" value="" hints="SlotCreate" />
+    </Attributes>
+    <Effects>
+        <Effect name="1" effect="wq_九大门派神器天龙环01" locator="武器特效点03" translateAll="true" />
+        <Effect name="2" effect="wq_九大门派神器天龙环01" locator="武器特效点1" translateAll="true" />
+    </Effects>
+</Object>
+<Object name="女主角高模唐门高级100.obj">
+    <EntityList>
+        <Entity name="女主角高模1唐门高级100" file="女主角高模1唐门高级100.mesh" material="" />
+        <Entity name="女主角高模2唐门高级100" file="女主角高模2唐门高级100.mesh" material="" />
+        <Entity name="女主角高模3唐门高级100" file="女主角高模3唐门高级100.mesh" material="" />
+        <Entity name="女主角高模4唐门高级100" file="女主角高模4唐门高级100.mesh" material="" />
+        <Entity name="女主角高模脸01" file="女主角高模脸01.mesh" material="" />
+        <Entity name="女主角高模唐门高级100_武器" file="女主角高模唐门高级100_武器.mesh" material="" />
+        <Entity name="女主角头发高模02" file="女主角头发高模02.mesh" material="" />
+    </EntityList>
+    <Locators count="22">
+        <Locator name="脚下光圈点" bonename="" x="0.000000" y="-0.000002" z="0.000000" qx="-0.577350" qy="0.577350" qz="-0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="脚下光圈点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体受击点" bonename="w_Bip01_Spine1" x="4.519478" y="12.341267" z="0.000031" qx="-0.564841" qy="-0.601589" qz="0.564841" qw="-2.058418" translateFirst="true">
+            <Slot name="身体受击点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体中心点" bonename="w_Bip01_Spine1" x="0.977043" y="-3.172707" z="0.000015" qx="0.466249" qy="0.625545" qz="-0.625544" qw="-2.269024" translateFirst="true">
+            <Slot name="身体中心点" object="" attribs="" />
+        </Locator>
+        <Locator name="头顶状态点" bonename="w_Bip01_Head" x="23.947372" y="0.740988" z="0.000060" qx="0.577349" qy="0.577350" qz="-0.577351" qw="-2.094394" translateFirst="true">
+            <Slot name="头顶状态点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点" bonename="Bone08_mirror01" x="21.785223" y="2.091522" z="20.404045" qx="0.186320" qy="-0.359993" qz="0.914161" qw="-1.521413" translateFirst="true">
+            <Slot name="武器特效点" object="" attribs="" />
+        </Locator>
+        <Locator name="右肩" bonename="w_Bip01_R_Clavicle" x="9.090821" y="-1.185982" z="-4.278122" qx="0.087628" qy="0.148163" qz="0.985073" qw="-3.214729" translateFirst="true">
+            <Slot name="右肩" object="" attribs="" />
+        </Locator>
+        <Locator name="右武器绑定点" bonename="Bone08_mirror01" x="0.235211" y="0.374222" z="-1.001247" qx="0.578910" qy="0.574215" qz="0.578913" qw="-2.099104" translateFirst="true">
+            <Slot name="右武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="右足踩地点" bonename="w_Bip01_R_Foot" x="7.743675" y="4.234156" z="-0.185656" qx="-0.577351" qy="-0.577350" qz="-0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="右足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="左肩" bonename="w_Bip01_L_Clavicle" x="9.090343" y="-1.186119" z="4.278503" qx="0.995386" qy="-0.036969" qz="0.088545" qw="-2.844372" translateFirst="true">
+            <Slot name="左肩" object="" attribs="" />
+        </Locator>
+        <Locator name="左武器绑定点" bonename="Bone08" x="0.231843" y="0.376099" z="1.000782" qx="0.577350" qy="0.577350" qz="-0.577350" qw="-4.188790" translateFirst="true">
+            <Slot name="左武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="左足踩地点" bonename="w_Bip01_L_Foot" x="7.743667" y="4.234135" z="0.185812" qx="0.577351" qy="0.577349" qz="0.577351" qw="-4.188790" translateFirst="true">
+            <Slot name="左足踩地点" object="" attribs="" />
+        </Locator>
+    </Locators>
+    <Effects>
+        <Effect name="1" effect="wq_96级神器唐门弩升星_自身_01" locator="武器特效点" translateAll="true" />
+        <Effect name="2" effect="wq_96级神器唐门弩升星_自身_02" locator="武器特效点" translateAll="true" />
+        <Effect name="3" effect="wq_96级神器唐门弩升星_自身_04" locator="武器特效点" translateAll="true" />
+        <Effect name="4" effect="wq_96级神器唐门弩升星_自身_05" locator="武器特效点" translateAll="true" />
+    </Effects>
+    <Attributes>
+        <Attribute name="脚下光圈点" value="" hints="SlotCreate" />
+        <Attribute name="身体受击点" value="" hints="SlotCreate" />
+        <Attribute name="身体中心点" value="" hints="SlotCreate" />
+        <Attribute name="头顶状态点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点" value="" hints="SlotCreate" />
+        <Attribute name="右肩" value="" hints="SlotCreate" />
+        <Attribute name="右武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="右足踩地点" value="" hints="SlotCreate" />
+        <Attribute name="左肩" value="" hints="SlotCreate" />
+        <Attribute name="左武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="左足踩地点" value="" hints="SlotCreate" />
+    </Attributes>
+</Object>
+<Object name="女主角高模天山.obj">
+    <EntityList>
+        <Entity name="女主角高模3天山高级100" file="女主角高模3天山高级100.mesh" material="" />
+        <Entity name="女主角高模1天山高级100" file="女主角高模1天山高级100.mesh" material="" />
+        <Entity name="女主角高模4天山高级100" file="女主角高模4天山高级100.mesh" material="" />
+        <Entity name="女主角高模2天山高级100" file="女主角高模2天山高级100.mesh" material="" />
+        <Entity name="女天山脸蛋" file="女天山脸蛋.mesh" material="" />
+        <Entity name="天山女头发" file="天山女头发.mesh" material="" />
+        <Entity name="天山huan女" file="天山huan女.mesh" material="" />
+        <Entity name="天山huan女00" file="天山huan女00.mesh" material="" />
+    </EntityList>
+    <Locators count="12">
+        <Locator name="左足踩地点" bonename="w_Bip01_L_Foot" x="7.743667" y="4.234134" z="0.185817" qx="0.577351" qy="0.577349" qz="0.577351" qw="-4.188790" translateFirst="true">
+            <Slot name="左足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="右足踩地点" bonename="w_Bip01_R_Foot" x="7.743683" y="4.234224" z="-0.185665" qx="-0.577351" qy="-0.577350" qz="-0.577350" qw="-2.094394" translateFirst="true">
+            <Slot name="右足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="头顶状态点" bonename="w_Bip01_Head" x="23.947372" y="0.740989" z="0.000062" qx="0.577349" qy="0.577351" qz="-0.577351" qw="-2.094393" translateFirst="true">
+            <Slot name="头顶状态点" object="" attribs="" />
+        </Locator>
+        <Locator name="左肩" bonename="w_Bip01_L_Clavicle" x="9.090352" y="-1.186102" z="4.278457" qx="0.995386" qy="-0.036969" qz="0.088545" qw="-2.844372" translateFirst="true">
+            <Slot name="左肩" object="" attribs="" />
+        </Locator>
+        <Locator name="右肩" bonename="w_Bip01_R_Clavicle" x="9.090812" y="-1.185980" z="-4.278171" qx="0.087628" qy="0.148163" qz="0.985073" qw="-3.214729" translateFirst="true">
+            <Slot name="右肩" object="" attribs="" />
+        </Locator>
+        <Locator name="身体受击点" bonename="w_Bip01_Spine1" x="4.519467" y="12.341273" z="0.000015" qx="-0.564841" qy="-0.601589" qz="0.564841" qw="-2.058418" translateFirst="true">
+            <Slot name="身体受击点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体中心点" bonename="w_Bip01_Spine1" x="0.977060" y="-3.172702" z="0.000031" qx="0.466249" qy="0.625545" qz="-0.625544" qw="-2.269024" translateFirst="true">
+            <Slot name="身体中心点" object="" attribs="" />
+        </Locator>
+        <Locator name="脚下光圈点" bonename="" x="0.000000" y="-0.000002" z="0.000000" qx="-0.577350" qy="0.577350" qz="-0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="脚下光圈点" object="" attribs="" />
+        </Locator>
+        <Locator name="左手武器特效点" bonename="Bone_左手环" x="0.000003" y="0.000001" z="-0.000001" qx="0.577350" qy="0.577350" qz="0.577350" qw="-4.188790" translateFirst="true">
+            <Slot name="左手武器特效点" object="" attribs="" />
+        </Locator>
+        <Locator name="左手武器特效点2" bonename="Bone_左手环" x="10.669295" y="-0.000000" z="-0.000001" qx="-0.577350" qy="-0.577350" qz="0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="左手武器特效点2" object="" attribs="" />
+        </Locator>
+        <Locator name="右手武器特效点" bonename="Bone_右手环" x="-0.000004" y="-0.000000" z="-0.000001" qx="0.577350" qy="0.577350" qz="0.577350" qw="-4.188790" translateFirst="true">
+            <Slot name="右手武器特效点" object="" attribs="" />
+        </Locator>
+        <Locator name="右手武器特效点2" bonename="Bone_右手环" x="10.669290" y="-0.000002" z="-0.000001" qx="0.577350" qy="0.577350" qz="0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="右手武器特效点2" object="" attribs="" />
+        </Locator>
+    </Locators>
+    <Attributes>
+        <Attribute name="脚下光圈点" value="" hints="SlotCreate" />
+        <Attribute name="身体受击点" value="" hints="SlotCreate" />
+        <Attribute name="身体中心点" value="" hints="SlotCreate" />
+        <Attribute name="头顶状态点" value="" hints="SlotCreate" />
+        <Attribute name="右肩" value="" hints="SlotCreate" />
+        <Attribute name="右手武器特效点" value="" hints="SlotCreate" />
+        <Attribute name="右手武器特效点2" value="" hints="SlotCreate" />
+        <Attribute name="右足踩地点" value="" hints="SlotCreate" />
+        <Attribute name="左肩" value="" hints="SlotCreate" />
+        <Attribute name="左手武器特效点" value="" hints="SlotCreate" />
+        <Attribute name="左手武器特效点2" value="" hints="SlotCreate" />
+        <Attribute name="左足踩地点" value="" hints="SlotCreate" />
+    </Attributes>
+    <Effects>
+        <Effect name="1" effect="wq_九大门派神器天山01" locator="右手武器特效点2" translateAll="true" />
+        <Effect name="2" effect="wq_九大门派神器天山01" locator="左手武器特效点2" translateAll="true" />
+    </Effects>
+</Object>
+<Object name="女主角高模姑苏慕容.obj">
+    <EntityList>
+        <Entity name="姑苏莫容头发女" file="姑苏莫容头发女.mesh" material="" />
+        <Entity name="姑苏女脸" file="姑苏女脸.mesh" material="" />
+        <Entity name="女主角高模3姑苏慕容高级100" file="女主角高模3姑苏慕容高级100.mesh" material="" />
+        <Entity name="女主角高模2姑苏慕容高级100" file="女主角高模2姑苏慕容高级100.mesh" material="" />
+        <Entity name="女主角高模4姑苏慕容高级100" file="女主角高模4姑苏慕容高级100.mesh" material="" />
+        <Entity name="女主角高模1姑苏慕容高级100" file="女主角高模1姑苏慕容高级100.mesh" material="" />
+        <Entity name="神器姑苏女滴" file="神器姑苏女滴.mesh" material="" />
+    </EntityList>
+    <Locators count="12">
+        <Locator name="头顶状态点" bonename="w_Bip01_Head" x="23.947372" y="0.740986" z="0.000061" qx="0.577349" qy="0.577350" qz="-0.577351" qw="-2.094394" translateFirst="true">
+            <Slot name="头顶状态点" object="" attribs="" />
+        </Locator>
+        <Locator name="右肩" bonename="w_Bip01_R_Clavicle" x="9.090813" y="-1.185975" z="-4.278159" qx="0.087628" qy="0.148163" qz="0.985073" qw="-3.214729" translateFirst="true">
+            <Slot name="右肩" object="" attribs="" />
+        </Locator>
+        <Locator name="左肩" bonename="w_Bip01_L_Clavicle" x="9.090350" y="-1.186103" z="4.278458" qx="0.995386" qy="-0.036969" qz="0.088545" qw="-2.844372" translateFirst="true">
+            <Slot name="左肩" object="" attribs="" />
+        </Locator>
+        <Locator name="身体中心点" bonename="w_Bip01_Spine1" x="0.977062" y="-3.172707" z="0.000031" qx="0.466249" qy="0.625545" qz="-0.625544" qw="-2.269024" translateFirst="true">
+            <Slot name="身体中心点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体受击点" bonename="w_Bip01_Spine1" x="4.519470" y="12.341268" z="0.000015" qx="-0.564841" qy="-0.601589" qz="0.564841" qw="-2.058419" translateFirst="true">
+            <Slot name="身体受击点" object="" attribs="" />
+        </Locator>
+        <Locator name="右武器绑定点" bonename="w_Bip01_R_Hand" x="7.372655" y="2.090672" z="1.767471" qx="-1.000000" qy="-0.000007" qz="-0.000001" qw="-1.562652" translateFirst="true">
+            <Slot name="右武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="左武器绑定点" bonename="Bone13" x="-0.103176" y="-4.260323" z="-1.967703" qx="0.994190" qy="0.018657" qz="0.106007" qw="-3.208264" translateFirst="true">
+            <Slot name="左武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="右足踩地点" bonename="w_Bip01_R_Foot" x="7.743683" y="4.234223" z="-0.185666" qx="-0.577351" qy="-0.577350" qz="-0.577350" qw="-2.094394" translateFirst="true">
+            <Slot name="右足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="脚下光圈点" bonename="" x="0.000000" y="-0.000002" z="0.000000" qx="-0.577350" qy="0.577350" qz="-0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="脚下光圈点" object="" attribs="" />
+        </Locator>
+        <Locator name="左足踩地点" bonename="w_Bip01_L_Foot" x="7.743667" y="4.234135" z="0.185816" qx="0.577351" qy="0.577349" qz="0.577351" qw="-4.188790" translateFirst="true">
+            <Slot name="左足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="特效点00" bonename="Bone34" x="137.969727" y="-0.000042" z="0.000122" qx="-0.000004" qy="-0.000003" qz="1.000000" qw="-1.570796" translateFirst="true">
+            <Slot name="特效点00" object="" attribs="" />
+        </Locator>
+        <Locator name="特效点01" bonename="Bone34" x="27.269472" y="-0.000012" z="0.000032" qx="-0.000004" qy="-0.000003" qz="1.000000" qw="-1.570796" translateFirst="true">
+            <Slot name="特效点01" object="" attribs="" />
+        </Locator>
+    </Locators>
+    <Attributes>
+        <Attribute name="脚下光圈点" value="" hints="SlotCreate" />
+        <Attribute name="身体受击点" value="" hints="SlotCreate" />
+        <Attribute name="身体中心点" value="" hints="SlotCreate" />
+        <Attribute name="特效点00" value="" hints="SlotCreate" />
+        <Attribute name="特效点01" value="" hints="SlotCreate" />
+        <Attribute name="头顶状态点" value="" hints="SlotCreate" />
+        <Attribute name="右肩" value="" hints="SlotCreate" />
+        <Attribute name="右武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="右足踩地点" value="" hints="SlotCreate" />
+        <Attribute name="左肩" value="" hints="SlotCreate" />
+        <Attribute name="左武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="左足踩地点" value="" hints="SlotCreate" />
+    </Attributes>
+    <Effects>
+        <Effect name="1" effect="wq_96新门派神器姑苏" locator="特效点01" translateAll="true" />
+    </Effects>
+</Object>
+<Object name="女主角高模少林.obj">
+    <EntityList>
+        <Entity name="女主角高模1少林高级100" file="女主角高模1少林高级100.mesh" material="" />
+        <Entity name="女主角高模2少林高级100" file="女主角高模2少林高级100.mesh" material="" />
+        <Entity name="女主角高模3少林高级100" file="女主角高模3少林高级100.mesh" material="" />
+        <Entity name="女主角高模4少林高级100" file="女主角高模4少林高级100.mesh" material="" />
+        <Entity name="女少林头发" file="女少林头发.mesh" material="" />
+        <Entity name="女少林脸" file="女少林脸.mesh" material="" />
+        <Entity name="禅杖nv" file="禅杖nv.mesh" material="" />
+    </EntityList>
+    <Locators count="13">
+        <Locator name="左足踩地点" bonename="w_Bip01_L_Foot" x="7.743667" y="4.234134" z="0.185817" qx="0.577351" qy="0.577349" qz="0.577351" qw="-4.188790" translateFirst="true">
+            <Slot name="左足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="右足踩地点" bonename="w_Bip01_R_Foot" x="7.743683" y="4.234224" z="-0.185666" qx="-0.577351" qy="-0.577350" qz="-0.577350" qw="-2.094394" translateFirst="true">
+            <Slot name="右足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="头顶状态点" bonename="w_Bip01_Head" x="23.947372" y="0.740989" z="0.000062" qx="0.577349" qy="0.577351" qz="-0.577351" qw="-2.094393" translateFirst="true">
+            <Slot name="头顶状态点" object="" attribs="" />
+        </Locator>
+        <Locator name="左武器绑定点" bonename="w_Bip01_L_Hand" x="7.372957" y="2.088917" z="-1.763862" qx="1.000000" qy="-0.000053" qz="-0.000055" qw="-1.571386" translateFirst="true">
+            <Slot name="左武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="左肩" bonename="w_Bip01_L_Clavicle" x="9.090351" y="-1.186105" z="4.278457" qx="0.995386" qy="-0.036969" qz="0.088545" qw="-2.844372" translateFirst="true">
+            <Slot name="左肩" object="" attribs="" />
+        </Locator>
+        <Locator name="右武器绑定点" bonename="w_Bip01_R_Hand" x="7.372662" y="2.090681" z="1.767486" qx="-1.000000" qy="-0.000007" qz="-0.000002" qw="-1.562651" translateFirst="true">
+            <Slot name="右武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="右肩" bonename="w_Bip01_R_Clavicle" x="9.090816" y="-1.185979" z="-4.278166" qx="0.087628" qy="0.148163" qz="0.985073" qw="-3.214729" translateFirst="true">
+            <Slot name="右肩" object="" attribs="" />
+        </Locator>
+        <Locator name="身体受击点" bonename="w_Bip01_Spine1" x="4.519467" y="12.341271" z="0.000015" qx="-0.564841" qy="-0.601589" qz="0.564841" qw="-2.058418" translateFirst="true">
+            <Slot name="身体受击点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体中心点" bonename="w_Bip01_Spine1" x="0.977060" y="-3.172702" z="0.000046" qx="0.466249" qy="0.625545" qz="-0.625544" qw="-2.269024" translateFirst="true">
+            <Slot name="身体中心点" object="" attribs="" />
+        </Locator>
+        <Locator name="脚下光圈点" bonename="" x="0.000000" y="-0.000002" z="0.000000" qx="-0.577350" qy="0.577350" qz="-0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="脚下光圈点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点1" bonename="Bone46" x="133.990829" y="-0.000060" z="0.000018" qx="-0.576212" qy="-0.579622" qz="0.576211" qw="-2.090990" translateFirst="true">
+            <Slot name="武器特效点1" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点" bonename="Bone46" x="47.504471" y="-0.000039" z="0.000000" qx="-0.576212" qy="-0.579622" qz="0.576211" qw="-2.090990" translateFirst="true">
+            <Slot name="武器特效点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点2" bonename="Bone46" x="74.286316" y="-0.000012" z="-0.000000" qx="-0.576212" qy="-0.579622" qz="0.576211" qw="-2.090990" translateFirst="true">
+            <Slot name="武器特效点2" object="" attribs="" />
+        </Locator>
+    </Locators>
+    <Attributes>
+        <Attribute name="脚下光圈点" value="" hints="SlotCreate" />
+        <Attribute name="身体受击点" value="" hints="SlotCreate" />
+        <Attribute name="身体中心点" value="" hints="SlotCreate" />
+        <Attribute name="头顶状态点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点1" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点2" value="" hints="SlotCreate" />
+        <Attribute name="右肩" value="" hints="SlotCreate" />
+        <Attribute name="右武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="右足踩地点" value="" hints="SlotCreate" />
+        <Attribute name="左肩" value="" hints="SlotCreate" />
+        <Attribute name="左武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="左足踩地点" value="" hints="SlotCreate" />
+    </Attributes>
+    <Effects>
+        <Effect name="1" effect="wq_九大门派神器少林禅杖01" locator="武器特效点" translateAll="true" />
+    </Effects>
+</Object>
+<Object name="女主角高模峨眉.obj">
+    <EntityList>
+        <Entity name="女主角高模1峨眉高级100" file="女主角高模1峨眉高级100.mesh" material="" />
+        <Entity name="女主角高模2峨眉高级100" file="女主角高模2峨眉高级100.mesh" material="" />
+        <Entity name="女主角高模3峨眉高级100" file="女主角高模3峨眉高级100.mesh" material="" />
+        <Entity name="女主角高模4峨眉高级100" file="女主角高模4峨眉高级100.mesh" material="" />
+        <Entity name="女峨眉头发08" file="女峨眉头发08.mesh" material="" />
+        <Entity name="女峨眉脸01" file="女峨眉脸01.mesh" material="" />
+        <Entity name="峨眉小器" file="峨眉小器.mesh" material="" />
+    </EntityList>
+    <Locators count="4">
+        <Locator name="头顶状态点" bonename="w_Bip01_Head" x="43.020996" y="0.741015" z="0.000075" qx="0.577349" qy="0.577350" qz="-0.577351" qw="-2.094393" translateFirst="true">
+            <Slot name="头顶状态点" object="" attribs="" />
+        </Locator>
+        <Locator name="脚下光圈点" bonename="" x="0.000000" y="-0.000002" z="0.000000" qx="-0.577350" qy="0.577350" qz="-0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="脚下光圈点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点02" bonename="Bone_峨眉的武器骨" x="-119.495140" y="-2.932952" z="-0.000000" qx="0.000001" qy="-0.000001" qz="-1.000000" qw="-1.592892" translateFirst="true">
+            <Slot name="武器特效点02" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点03" bonename="Bone_峨眉的武器骨" x="-12.200156" y="-0.561768" z="0.000002" qx="0.000001" qy="-0.000001" qz="-1.000000" qw="-1.592892" translateFirst="true">
+            <Slot name="武器特效点03" object="" attribs="" />
+        </Locator>
+    </Locators>
+    <Attributes>
+        <Attribute name="脚下光圈点" value="" hints="SlotCreate" />
+        <Attribute name="头顶状态点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点02" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点03" value="" hints="SlotCreate" />
+    </Attributes>
+    <Effects>
+        <Effect name="1" effect="wq_九大门派神器峨眉01" locator="武器特效点03" translateAll="true" />
+    </Effects>
+</Object>
+<Object name="女主角高模明教.obj">
+    <EntityList>
+        <Entity name="女主角高模1明教高级100" file="女主角高模1明教高级100.mesh" material="" />
+        <Entity name="女主角高模2明教高级100" file="女主角高模2明教高级100.mesh" material="" />
+        <Entity name="女主角高模3明教高级100" file="女主角高模3明教高级100.mesh" material="" />
+        <Entity name="女主角高模4明教高级100" file="女主角高模4明教高级100.mesh" material="" />
+        <Entity name="脸1" file="脸1.mesh" material="" />
+        <Entity name="发17" file="发17.mesh" material="" />
+        <Entity name="nv明教刀" file="nv明教刀.mesh" material="" />
+    </EntityList>
+    <Locators count="12">
+        <Locator name="头顶状态点" bonename="w_Bip01_Head" x="23.947378" y="0.740990" z="0.000062" qx="0.577349" qy="0.577351" qz="-0.577351" qw="-2.094394" translateFirst="true">
+            <Slot name="头顶状态点" object="" attribs="" />
+        </Locator>
+        <Locator name="右肩" bonename="w_Bip01_R_Clavicle" x="9.090816" y="-1.185979" z="-4.278166" qx="0.087628" qy="0.148163" qz="0.985073" qw="-3.214729" translateFirst="true">
+            <Slot name="右肩" object="" attribs="" />
+        </Locator>
+        <Locator name="身体受击点" bonename="w_Bip01_Spine1" x="4.519467" y="12.341271" z="0.000015" qx="-0.564841" qy="-0.601589" qz="0.564841" qw="-2.058418" translateFirst="true">
+            <Slot name="身体受击点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体中心点" bonename="w_Bip01_Spine1" x="0.977060" y="-3.172703" z="0.000031" qx="0.466249" qy="0.625545" qz="-0.625544" qw="-2.269024" translateFirst="true">
+            <Slot name="身体中心点" object="" attribs="" />
+        </Locator>
+        <Locator name="左肩" bonename="w_Bip01_L_Clavicle" x="9.090351" y="-1.186105" z="4.278457" qx="0.995386" qy="-0.036969" qz="0.088545" qw="-2.844372" translateFirst="true">
+            <Slot name="左肩" object="" attribs="" />
+        </Locator>
+        <Locator name="右武器绑定点" bonename="w_Bip01_R_Hand" x="7.372662" y="2.090681" z="1.767486" qx="-1.000000" qy="-0.000007" qz="-0.000002" qw="-1.562651" translateFirst="true">
+            <Slot name="右武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="左武器绑定点" bonename="w_Bip01_L_Hand" x="7.372957" y="2.088917" z="-1.763862" qx="1.000000" qy="-0.000053" qz="-0.000055" qw="-1.571386" translateFirst="true">
+            <Slot name="左武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="右足踩地点" bonename="w_Bip01_R_Foot" x="7.743683" y="4.234224" z="-0.185666" qx="-0.577351" qy="-0.577350" qz="-0.577350" qw="-2.094394" translateFirst="true">
+            <Slot name="右足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="脚下光圈点" bonename="" x="0.000000" y="-0.000002" z="0.000000" qx="-0.577350" qy="0.577350" qz="-0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="脚下光圈点" object="" attribs="" />
+        </Locator>
+        <Locator name="左足踩地点" bonename="w_Bip01_L_Foot" x="7.743667" y="4.234134" z="0.185817" qx="0.577351" qy="0.577349" qz="0.577351" qw="-4.188790" translateFirst="true">
+            <Slot name="左足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点1" bonename="Bone29" x="251.295090" y="0.041468" z="0.023361" qx="0.000002" qy="0.000002" qz="1.000000" qw="-1.584557" translateFirst="true">
+            <Slot name="武器特效点1" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点" bonename="Bone29" x="166.974274" y="1.201833" z="0.023369" qx="0.000002" qy="0.000002" qz="1.000000" qw="-1.584557" translateFirst="true">
+            <Slot name="武器特效点" object="" attribs="" />
+        </Locator>
+    </Locators>
+    <Attributes>
+        <Attribute name="脚下光圈点" value="" hints="SlotCreate" />
+        <Attribute name="身体受击点" value="" hints="SlotCreate" />
+        <Attribute name="身体中心点" value="" hints="SlotCreate" />
+        <Attribute name="头顶状态点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点1" value="" hints="SlotCreate" />
+        <Attribute name="右肩" value="" hints="SlotCreate" />
+        <Attribute name="右武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="右足踩地点" value="" hints="SlotCreate" />
+        <Attribute name="左肩" value="" hints="SlotCreate" />
+        <Attribute name="左武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="左足踩地点" value="" hints="SlotCreate" />
+    </Attributes>
+    <Effects>
+        <Effect name="1" effect="wq_九大门派神器明教刀01" locator="武器特效点" translateAll="true" />
+    </Effects>
+</Object>
+<Object name="女主角高模星宿.obj">
+    <EntityList>
+        <Entity name="女主角高模1星宿高级100" file="女主角高模1星宿高级100.mesh" material="" />
+        <Entity name="女主角高模2星宿高级100" file="女主角高模2星宿高级100.mesh" material="" />
+        <Entity name="女主角高模3星宿高级100" file="女主角高模3星宿高级100.mesh" material="" />
+        <Entity name="女主角高模4星宿高级100" file="女主角高模4星宿高级100.mesh" material="" />
+        <Entity name="星宿女发" file="星宿女发.mesh" material="" />
+        <Entity name="女星宿的脸" file="女星宿的脸.mesh" material="" />
+        <Entity name="宿钩11" file="宿钩11.mesh" material="" />
+        <Entity name="宿钩1" file="宿钩1.mesh" material="" />
+    </EntityList>
+    <Locators count="14">
+        <Locator name="右武器绑定点" bonename="w_Bip01_R_Hand" x="7.372658" y="2.090671" z="1.767486" qx="-1.000000" qy="-0.000007" qz="-0.000001" qw="-1.562652" translateFirst="true">
+            <Slot name="右武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="左武器绑定点" bonename="w_Bip01_L_Hand" x="7.372956" y="2.088915" z="-1.763862" qx="1.000000" qy="-0.000053" qz="-0.000055" qw="-1.571386" translateFirst="true">
+            <Slot name="左武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="脚下光圈点" bonename="" x="0.000000" y="-0.000002" z="0.000000" qx="-0.577350" qy="0.577350" qz="-0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="脚下光圈点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体中心点" bonename="w_Bip01_Spine1" x="0.977060" y="-3.172701" z="0.000061" qx="0.466249" qy="0.625545" qz="-0.625544" qw="-2.269024" translateFirst="true">
+            <Slot name="身体中心点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体受击点" bonename="w_Bip01_Spine1" x="4.519481" y="12.341280" z="0.000031" qx="-0.564841" qy="-0.601589" qz="0.564841" qw="-2.058419" translateFirst="true">
+            <Slot name="身体受击点" object="" attribs="" />
+        </Locator>
+        <Locator name="右肩" bonename="w_Bip01_R_Clavicle" x="9.090809" y="-1.185975" z="-4.278170" qx="0.087628" qy="0.148163" qz="0.985073" qw="-3.214729" translateFirst="true">
+            <Slot name="右肩" object="" attribs="" />
+        </Locator>
+        <Locator name="左肩" bonename="w_Bip01_L_Clavicle" x="9.090351" y="-1.186103" z="4.278474" qx="0.995386" qy="-0.036969" qz="0.088545" qw="-2.844372" translateFirst="true">
+            <Slot name="左肩" object="" attribs="" />
+        </Locator>
+        <Locator name="头顶状态点" bonename="w_Bip01_Head" x="23.947372" y="0.740989" z="0.000076" qx="0.577349" qy="0.577350" qz="-0.577351" qw="-2.094393" translateFirst="true">
+            <Slot name="头顶状态点" object="" attribs="" />
+        </Locator>
+        <Locator name="右足踩地点" bonename="w_Bip01_R_Foot" x="7.743682" y="4.234223" z="-0.185664" qx="-0.577351" qy="-0.577350" qz="-0.577350" qw="-2.094394" translateFirst="true">
+            <Slot name="右足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="左足踩地点" bonename="w_Bip01_L_Foot" x="7.743667" y="4.234135" z="0.185817" qx="0.577351" qy="0.577349" qz="0.577351" qw="-4.188790" translateFirst="true">
+            <Slot name="左足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点1" bonename="Bone60" x="105.377670" y="-0.220165" z="-0.066940" qx="0.578667" qy="0.575838" qz="-0.577542" qw="-4.188204" translateFirst="true">
+            <Slot name="武器特效点1" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点11111" bonename="Bone59" x="108.681961" y="1.538085" z="-0.722557" qx="0.599268" qy="0.606005" qz="-0.523102" qw="-4.118922" translateFirst="true">
+            <Slot name="武器特效点11111" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点" bonename="Bone60" x="18.565632" y="0.036346" z="-0.235838" qx="0.578667" qy="0.575838" qz="-0.577542" qw="-4.188204" translateFirst="true">
+            <Slot name="武器特效点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点0000" bonename="Bone59" x="21.877415" y="0.376624" z="-0.940861" qx="0.599268" qy="0.606005" qz="-0.523102" qw="-4.118922" translateFirst="true">
+            <Slot name="武器特效点0000" object="" attribs="" />
+        </Locator>
+    </Locators>
+    <Attributes>
+        <Attribute name="脚下光圈点" value="" hints="SlotCreate" />
+        <Attribute name="身体受击点" value="" hints="SlotCreate" />
+        <Attribute name="身体中心点" value="" hints="SlotCreate" />
+        <Attribute name="头顶状态点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点0000" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点1" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点11111" value="" hints="SlotCreate" />
+        <Attribute name="右肩" value="" hints="SlotCreate" />
+        <Attribute name="右武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="右足踩地点" value="" hints="SlotCreate" />
+        <Attribute name="左肩" value="" hints="SlotCreate" />
+        <Attribute name="左武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="左足踩地点" value="" hints="SlotCreate" />
+    </Attributes>
+    <Effects>
+        <Effect name="1" effect="wq_九大门派神器星宿钩01" locator="武器特效点" translateAll="true" />
+        <Effect name="2" effect="wq_九大门派神器星宿钩01" locator="武器特效点0000" translateAll="true" />
+    </Effects>
+</Object>
+<Object name="女主角高模武当.obj">
+    <EntityList>
+        <Entity name="女主角高模1武当高级100" file="女主角高模1武当高级100.mesh" material="" />
+        <Entity name="女主角高模2武当高级100" file="女主角高模2武当高级100.mesh" material="" />
+        <Entity name="女主角高模3武当高级100" file="女主角高模3武当高级100.mesh" material="" />
+        <Entity name="女主角高模4武当高级100" file="女主角高模4武当高级100.mesh" material="" />
+        <Entity name="女主角高模5武当高级100" file="女主角高模5武当高级100.mesh" material="" />
+        <Entity name="女主角高模6武当高级100" file="女主角高模6武当高级100.mesh" material="" />
+        <Entity name="女武当脸" file="女武当脸.mesh" material="" />
+        <Entity name="女武当头" file="女武当头.mesh" material="" />
+        <Entity name="武当剑nv" file="武当剑nv.mesh" material="" />
+    </EntityList>
+    <Locators count="12">
+        <Locator name="头顶状态点" bonename="w_Bip01_Head" x="23.947372" y="0.740989" z="0.000061" qx="0.577349" qy="0.577350" qz="-0.577351" qw="-2.094393" translateFirst="true">
+            <Slot name="头顶状态点" object="" attribs="" />
+        </Locator>
+        <Locator name="左肩" bonename="w_Bip01_L_Clavicle" x="9.090355" y="-1.186106" z="4.278440" qx="0.995386" qy="-0.036969" qz="0.088545" qw="-2.844372" translateFirst="true">
+            <Slot name="左肩" object="" attribs="" />
+        </Locator>
+        <Locator name="右肩" bonename="w_Bip01_R_Clavicle" x="9.090811" y="-1.185983" z="-4.278169" qx="0.087628" qy="0.148163" qz="0.985073" qw="-3.214729" translateFirst="true">
+            <Slot name="右肩" object="" attribs="" />
+        </Locator>
+        <Locator name="右武器绑定点" bonename="w_Bip01_R_Hand" x="7.372654" y="2.090671" z="1.767495" qx="-1.000000" qy="-0.000007" qz="-0.000001" qw="-1.562652" translateFirst="true">
+            <Slot name="右武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体受击点" bonename="w_Bip01_Spine1" x="4.519468" y="12.341269" z="0.000015" qx="-0.564841" qy="-0.601589" qz="0.564841" qw="-2.058419" translateFirst="true">
+            <Slot name="身体受击点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体中心点" bonename="w_Bip01_Spine1" x="0.977061" y="-3.172707" z="0.000031" qx="0.466249" qy="0.625545" qz="-0.625544" qw="-2.269024" translateFirst="true">
+            <Slot name="身体中心点" object="" attribs="" />
+        </Locator>
+        <Locator name="左武器绑定点" bonename="w_Bip01_L_Hand" x="7.372958" y="2.088912" z="-1.763869" qx="1.000000" qy="-0.000053" qz="-0.000055" qw="-1.571386" translateFirst="true">
+            <Slot name="左武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="脚下光圈点" bonename="" x="0.000000" y="-0.000002" z="0.000000" qx="-0.577350" qy="0.577350" qz="-0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="脚下光圈点" object="" attribs="" />
+        </Locator>
+        <Locator name="右足踩地点" bonename="w_Bip01_R_Foot" x="7.743679" y="4.234224" z="-0.185667" qx="-0.577351" qy="-0.577350" qz="-0.577350" qw="-2.094394" translateFirst="true">
+            <Slot name="右足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="左足踩地点" bonename="w_Bip01_L_Foot" x="7.743667" y="4.234134" z="0.185817" qx="0.577351" qy="0.577349" qz="0.577351" qw="-4.188790" translateFirst="true">
+            <Slot name="左足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点" bonename="Bone19" x="15.733886" y="-0.077645" z="-0.147347" qx="0.706722" qy="0.706872" qz="0.029583" qw="-3.083045" translateFirst="true">
+            <Slot name="武器特效点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点1" bonename="Bone19" x="164.705841" y="-0.048735" z="-0.082785" qx="0.706722" qy="0.706872" qz="0.029583" qw="-3.083045" translateFirst="true">
+            <Slot name="武器特效点1" object="" attribs="" />
+        </Locator>
+    </Locators>
+    <Attributes>
+        <Attribute name="脚下光圈点" value="" hints="SlotCreate" />
+        <Attribute name="身体受击点" value="" hints="SlotCreate" />
+        <Attribute name="身体中心点" value="" hints="SlotCreate" />
+        <Attribute name="头顶状态点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点1" value="" hints="SlotCreate" />
+        <Attribute name="右肩" value="" hints="SlotCreate" />
+        <Attribute name="右武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="右足踩地点" value="" hints="SlotCreate" />
+        <Attribute name="左肩" value="" hints="SlotCreate" />
+        <Attribute name="左武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="左足踩地点" value="" hints="SlotCreate" />
+    </Attributes>
+    <Effects>
+        <Effect name="1" effect="wq_九大门派神器武当剑01" locator="武器特效点" translateAll="true" />
+    </Effects>
+</Object>
+<Object name="女主角高模逍遥.obj">
+    <EntityList>
+        <Entity name="女主角高模2逍遥高级100" file="女主角高模2逍遥高级100.mesh" material="" />
+        <Entity name="女主角高模3逍遥高级100" file="女主角高模3逍遥高级100.mesh" material="" />
+        <Entity name="女主角高模1逍遥高级100" file="女主角高模1逍遥高级100.mesh" material="" />
+        <Entity name="女逍遥脸1101" file="女逍遥脸1101.mesh" material="" />
+        <Entity name="女逍遥头发0000" file="女逍遥头发0000.mesh" material="" />
+        <Entity name="女主角高模4逍遥高级100" file="女主角高模4逍遥高级100.mesh" material="" />
+        <Entity name="逍遥扇子nv" file="逍遥扇子nv.mesh" material="" />
+    </EntityList>
+    <Locators count="12">
+        <Locator name="右肩" bonename="w_Bip01_R_Clavicle" x="9.090815" y="-1.185977" z="-4.278156" qx="0.087628" qy="0.148163" qz="0.985073" qw="-3.214729" translateFirst="true">
+            <Slot name="右肩" object="" attribs="" />
+        </Locator>
+        <Locator name="头顶状态点" bonename="w_Bip01_Head" x="24.205704" y="0.740989" z="0.000076" qx="0.577349" qy="0.577350" qz="-0.577351" qw="-2.094394" translateFirst="true">
+            <Slot name="头顶状态点" object="" attribs="" />
+        </Locator>
+        <Locator name="左肩" bonename="w_Bip01_L_Clavicle" x="9.090354" y="-1.186101" z="4.278457" qx="0.995386" qy="-0.036969" qz="0.088545" qw="-2.844372" translateFirst="true">
+            <Slot name="左肩" object="" attribs="" />
+        </Locator>
+        <Locator name="身体中心点" bonename="w_Bip01_Spine1" x="1.224618" y="-3.098891" z="0.000031" qx="0.466249" qy="0.625545" qz="-0.625544" qw="-2.269024" translateFirst="true">
+            <Slot name="身体中心点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体受击点" bonename="w_Bip01_Spine1" x="4.767026" y="12.415081" z="0.000015" qx="-0.564841" qy="-0.601589" qz="0.564841" qw="-2.058419" translateFirst="true">
+            <Slot name="身体受击点" object="" attribs="" />
+        </Locator>
+        <Locator name="左武器绑定点" bonename="w_Bip01_L_Hand" x="7.372952" y="2.088911" z="-1.763862" qx="1.000000" qy="-0.000053" qz="-0.000055" qw="-1.571386" translateFirst="true">
+            <Slot name="左武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="右武器绑定点" bonename="w_Bip01_R_Hand" x="7.372656" y="2.090671" z="1.767487" qx="-1.000000" qy="-0.000007" qz="-0.000002" qw="-1.562651" translateFirst="true">
+            <Slot name="右武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="右足踩地点" bonename="w_Bip01_R_Foot" x="7.485352" y="4.234383" z="-0.185691" qx="-0.577351" qy="-0.577350" qz="-0.577350" qw="-2.094394" translateFirst="true">
+            <Slot name="右足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="左足踩地点" bonename="w_Bip01_L_Foot" x="7.743667" y="4.234134" z="0.185816" qx="0.577351" qy="0.577349" qz="0.577351" qw="-4.188790" translateFirst="true">
+            <Slot name="左足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="脚下光圈点" bonename="" x="0.000000" y="-0.000002" z="0.000000" qx="-0.577350" qy="0.577350" qz="-0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="脚下光圈点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点1" bonename="Bone_女逍遥扇子" x="85.704880" y="0.000007" z="0.000000" qx="0.577350" qy="0.577350" qz="0.577350" qw="-4.188790" translateFirst="true">
+            <Slot name="武器特效点1" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点" bonename="Bone_女逍遥扇子" x="14.752330" y="0.000002" z="0.000000" qx="0.577350" qy="0.577350" qz="0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="武器特效点" object="" attribs="" />
+        </Locator>
+    </Locators>
+    <Attributes>
+        <Attribute name="脚下光圈点" value="" hints="SlotCreate" />
+        <Attribute name="身体受击点" value="" hints="SlotCreate" />
+        <Attribute name="身体中心点" value="" hints="SlotCreate" />
+        <Attribute name="头顶状态点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点1" value="" hints="SlotCreate" />
+        <Attribute name="右肩" value="" hints="SlotCreate" />
+        <Attribute name="右武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="右足踩地点" value="" hints="SlotCreate" />
+        <Attribute name="左肩" value="" hints="SlotCreate" />
+        <Attribute name="左武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="左足踩地点" value="" hints="SlotCreate" />
+    </Attributes>
+    <Effects>
+        <Effect name="1" effect="wq_九大门派神器逍遥扇子01" locator="武器特效点" translateAll="true" />
+    </Effects>
+</Object>
+<Object name="女主角高模鬼谷高级100.obj">
+    <EntityList>
+        <Entity name="鬼谷女脸蛋" file="鬼谷女脸蛋.mesh" material="" />
+        <Entity name="鬼谷女头发" file="鬼谷女头发.mesh" material="" />
+        <Entity name="女主角高模鬼谷1" file="女主角高模鬼谷1.mesh" material="" />
+        <Entity name="女主角高模鬼谷2" file="女主角高模鬼谷2.mesh" material="" />
+        <Entity name="女主角高模鬼谷3" file="女主角高模鬼谷3.mesh" material="" />
+        <Entity name="女主角高模鬼谷4" file="女主角高模鬼谷4.mesh" material="" />
+    </EntityList>
+    <Locators count="12">
+        <Locator name="宝石特效点" bonename="Bone_wuqi" x="3.009129" y="-0.421371" z="65.338501" qx="-0.999779" qy="0.012511" qz="0.016898" qw="-1.576092" translateFirst="true">
+            <Slot name="宝石特效点" object="" attribs="" />
+        </Locator>
+        <Locator name="脚下光圈点" bonename="" x="-0.000015" y="0.000015" z="0.000000" qx="1.000000" qy="0.000000" qz="0.000000" qw="0.000000" translateFirst="true">
+            <Slot name="脚下光圈点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体受击点" bonename="Bip01_Spine1" x="6.575378" y="19.751068" z="0.000015" qx="0.555478" qy="0.618778" qz="0.555479" qw="-2.033366" translateFirst="true">
+            <Slot name="身体受击点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体中心点" bonename="Bip01" x="-0.000000" y="-0.000028" z="-0.227905" qx="-0.577351" qy="-0.577350" qz="-0.577350" qw="-2.094394" translateFirst="true">
+            <Slot name="身体中心点" object="" attribs="" />
+        </Locator>
+        <Locator name="头顶状态点" bonename="Bip01_Head" x="32.885391" y="-1.256882" z="-0.000015" qx="0.606186" qy="0.514858" qz="0.606185" qw="-2.190667" translateFirst="true">
+            <Slot name="头顶状态点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点" bonename="Bone_wuqi" x="2.709675" y="-0.007889" z="-0.181571" qx="-0.999708" qy="0.022935" qz="0.007548" qw="-1.569050" translateFirst="true">
+            <Slot name="武器特效点" object="主角高模鬼谷武器.obj" attribs="" />
+        </Locator>
+    </Locators>
+    <Effects>
+        <Effect name="1" effect="wq_鬼谷杖神96升星_01" locator="武器特效点" translateAll="true" />
+    </Effects>
+    <Attributes>
+        <Attribute name="宝石特效点" value="" hints="SlotCreate" />
+        <Attribute name="脚下光圈点" value="" hints="SlotCreate" />
+        <Attribute name="身体受击点" value="" hints="SlotCreate" />
+        <Attribute name="身体中心点" value="" hints="SlotCreate" />
+        <Attribute name="头顶状态点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点" value="" hints="SlotCreate" />
+    </Attributes>
+</Object>
+<Object name="男主角丐帮高模.obj">
+    <EntityList>
+        <Entity name="男主角高模4丐帮高级100" file="男主角高模4丐帮高级100.mesh" material="" />
+        <Entity name="男主角高模3丐帮高级100" file="男主角高模3丐帮高级100.mesh" material="" />
+        <Entity name="男主角高模1丐帮高级100" file="男主角高模1丐帮高级100.mesh" material="" />
+        <Entity name="男主角高模丐帮脸05" file="男主角高模丐帮脸05.mesh" material="" />
+        <Entity name="男主角高模丐帮头发03" file="男主角高模丐帮头发03.mesh" material="" />
+        <Entity name="男主角高模2丐帮高级100" file="男主角高模2丐帮高级100.mesh" material="" />
+        <Entity name="丐帮棍棍" file="丐帮棍棍.mesh" material="" />
+    </EntityList>
+    <Locators count="8">
+        <Locator name="右武器绑定点" bonename="m_Bip01_R_Hand" x="11.444728" y="2.862366" z="1.442369" qx="-0.992495" qy="0.063312" qz="0.104619" qw="-1.580664" translateFirst="true">
+            <Slot name="右武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="头顶状态点" bonename="m_Bip01_Head" x="26.152040" y="-5.861749" z="-0.000015" qx="0.682810" qy="0.503735" qz="-0.529170" qw="-1.970261" translateFirst="true">
+            <Slot name="头顶状态点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体受击点" bonename="m_Bip01_Spine1" x="8.623809" y="17.444508" z="0.000061" qx="-0.576460" qy="-0.586310" qz="0.569152" qw="-2.075406" translateFirst="true">
+            <Slot name="身体受击点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体中心点" bonename="m_Bip01_Spine1" x="2.523163" y="-3.928974" z="0.000031" qx="0.523966" qy="0.602271" qz="-0.602270" qw="-2.176319" translateFirst="true">
+            <Slot name="身体中心点" object="" attribs="" />
+        </Locator>
+        <Locator name="左武器绑定点" bonename="m_Bip01_L_Hand" x="11.444732" y="2.862935" z="-1.442739" qx="0.992495" qy="-0.063312" qz="0.104618" qw="-1.580661" translateFirst="true">
+            <Slot name="左武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点1" bonename="Bone08" x="-129.595337" y="0.936789" z="-0.000015" qx="-0.000000" qy="0.000000" qz="-1.000000" qw="-1.564790" translateFirst="true">
+            <Slot name="武器特效点1" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点2" bonename="Bone08" x="-87.381310" y="0.683251" z="-0.000008" qx="-0.000000" qy="0.000000" qz="-1.000000" qw="-1.564790" translateFirst="true">
+            <Slot name="武器特效点2" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点" bonename="Bone08" x="-8.549373" y="0.209786" z="-0.000000" qx="-0.000000" qy="0.000000" qz="-1.000000" qw="-1.564790" translateFirst="true">
+            <Slot name="武器特效点" object="" attribs="" />
+        </Locator>
+    </Locators>
+    <Attributes>
+        <Attribute name="身体受击点" value="" hints="SlotCreate" />
+        <Attribute name="身体中心点" value="" hints="SlotCreate" />
+        <Attribute name="头顶状态点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点1" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点2" value="" hints="SlotCreate" />
+        <Attribute name="右武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="左武器绑定点" value="" hints="SlotCreate" />
+    </Attributes>
+    <Effects>
+        <Effect name="1" effect="wq_九大门派神器丐帮棍01" locator="武器特效点" translateAll="true" />
+    </Effects>
+</Object>
+<Object name="男主角大理高模.obj">
+    <EntityList>
+        <Entity name="男主角大理高模脸02" file="男主角大理高模脸02.mesh" material="" />
+        <Entity name="男主角大理高模头发03" file="男主角大理高模头发03.mesh" material="" />
+        <Entity name="男主角高模2大理高级100" file="男主角高模2大理高级100.mesh" material="" />
+        <Entity name="男主角高模1大理高级100" file="男主角高模1大理高级100.mesh" material="" />
+        <Entity name="男主角高模4大理高级100" file="男主角高模4大理高级100.mesh" material="" />
+        <Entity name="男主角高模3大理高级100" file="男主角高模3大理高级100.mesh" material="" />
+        <Entity name="男主角高模5大理高级100" file="男主角高模5大理高级100.mesh" material="" />
+        <Entity name="天龙环男" file="天龙环男.mesh" material="" />
+        <Entity name="天龙环NAN" file="天龙环NAN.mesh" material="" />
+    </EntityList>
+    <Locators count="11">
+        <Locator name="身体中心点" bonename="m_Bip01" x="0.000000" y="-0.000001" z="0.000000" qx="-1.000000" qy="0.000001" qz="0.000001" qw="-1.570796" translateFirst="true">
+            <Slot name="身体中心点" object="" attribs="" />
+        </Locator>
+        <Locator name="脚下光圈点" bonename="" x="0.000000" y="-0.000002" z="0.000000" qx="-0.577350" qy="0.577350" qz="-0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="脚下光圈点" object="" attribs="" />
+        </Locator>
+        <Locator name="头顶状态点" bonename="m_Bip01_Head" x="26.152025" y="-5.861745" z="-0.000015" qx="0.682810" qy="0.503735" qz="-0.529170" qw="-1.970262" translateFirst="true">
+            <Slot name="头顶状态点" object="" attribs="" />
+        </Locator>
+        <Locator name="右肩" bonename="m_Bip01_R_Clavicle" x="8.688887" y="-11.558982" z="-5.766991" qx="0.169626" qy="0.059231" qz="0.983727" qw="-3.214708" translateFirst="true">
+            <Slot name="右肩" object="" attribs="" />
+        </Locator>
+        <Locator name="左肩" bonename="m_Bip01_L_Clavicle" x="11.349534" y="-4.121247" z="7.322697" qx="0.977295" qy="0.123092" qz="0.172463" qw="-3.079201" translateFirst="true">
+            <Slot name="左肩" object="" attribs="" />
+        </Locator>
+        <Locator name="右足踩地点" bonename="m_Bip01_R_Foot" x="12.601946" y="1.757786" z="-0.592881" qx="-0.576505" qy="-0.579034" qz="-0.576507" qw="-2.091873" translateFirst="true">
+            <Slot name="右足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="左足踩地点" bonename="m_Bip01_L_Foot" x="12.601938" y="1.757790" z="0.593245" qx="0.578189" qy="0.575667" qz="0.578191" qw="-4.186261" translateFirst="true">
+            <Slot name="左足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="左武器特效点2" bonename="Bone_左手环" x="21.974257" y="0.000002" z="0.000000" qx="-1.000000" qy="-0.000000" qz="0.000000" qw="-1.570796" translateFirst="true">
+            <Slot name="左武器特效点2" object="" attribs="" />
+        </Locator>
+        <Locator name="左武器特效点" bonename="Bone_左手环" x="5.188138" y="0.000002" z="-0.000000" qx="0.577350" qy="0.577350" qz="0.577350" qw="-4.188790" translateFirst="true">
+            <Slot name="左武器特效点" object="" attribs="" />
+        </Locator>
+        <Locator name="右武器特效点2" bonename="Bone_右手环" x="21.974258" y="0.000003" z="-0.000003" qx="-0.000000" qy="0.707107" qz="0.707107" qw="-3.141593" translateFirst="true">
+            <Slot name="右武器特效点2" object="" attribs="" />
+        </Locator>
+        <Locator name="右武器特效点" bonename="Bone_右手环" x="5.188139" y="-0.000001" z="-0.000002" qx="0.577350" qy="0.577350" qz="0.577350" qw="-4.188790" translateFirst="true">
+            <Slot name="右武器特效点" object="" attribs="" />
+        </Locator>
+    </Locators>
+    <Attributes>
+        <Attribute name="脚下光圈点" value="" hints="SlotCreate" />
+        <Attribute name="身体中心点" value="" hints="SlotCreate" />
+        <Attribute name="头顶状态点" value="" hints="SlotCreate" />
+        <Attribute name="右肩" value="" hints="SlotCreate" />
+        <Attribute name="右武器特效点" value="" hints="SlotCreate" />
+        <Attribute name="右武器特效点2" value="" hints="SlotCreate" />
+        <Attribute name="右足踩地点" value="" hints="SlotCreate" />
+        <Attribute name="左肩" value="" hints="SlotCreate" />
+        <Attribute name="左武器特效点" value="" hints="SlotCreate" />
+        <Attribute name="左武器特效点2" value="" hints="SlotCreate" />
+        <Attribute name="左足踩地点" value="" hints="SlotCreate" />
+    </Attributes>
+    <Effects>
+        <Effect name="1" effect="wq_九大门派神器天龙环01" locator="左武器特效点2" translateAll="true" />
+        <Effect name="2" effect="wq_九大门派神器天龙环01" locator="右武器特效点2" translateAll="true" />
+    </Effects>
+</Object>
+<Object name="男主角高模唐门高级100.obj">
+    <EntityList>
+        <Entity name="男主角高模脸06" file="男主角高模脸06.mesh" material="" />
+        <Entity name="男主角高模唐门高级100_01" file="男主角高模唐门高级100_01.mesh" material="" />
+        <Entity name="男主角高模唐门高级100_02" file="男主角高模唐门高级100_02.mesh" material="" />
+        <Entity name="男主角高模唐门高级100_03" file="男主角高模唐门高级100_03.mesh" material="" />
+        <Entity name="男主角高模唐门高级100_04" file="男主角高模唐门高级100_04.mesh" material="" />
+        <Entity name="男主角高模唐门高级100_05" file="男主角高模唐门高级100_05.mesh" material="" />
+        <Entity name="男主角高模唐门高级100_06" file="男主角高模唐门高级100_06.mesh" material="" />
+        <Entity name="男主角高模唐门高级100_武器" file="男主角高模唐门高级100_武器.mesh" material="" />
+        <Entity name="男主角唐门头发" file="男主角唐门头发.mesh" material="" />
+    </EntityList>
+    <Locators count="22">
+        <Locator name="脚下光圈点" bonename="" x="0.000000" y="-0.000002" z="0.000000" qx="-0.577350" qy="0.577350" qz="-0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="脚下光圈点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体受击点" bonename="m_Bip01_Spine1" x="8.623779" y="17.444519" z="0.000045" qx="-0.576460" qy="-0.586311" qz="0.569151" qw="-2.075405" translateFirst="true">
+            <Slot name="身体受击点" object="" attribs="" />
+        </Locator>
+        <Locator name="头顶状态点" bonename="m_Bip01_Head" x="26.152008" y="-5.861740" z="-0.000016" qx="0.682811" qy="0.503735" qz="-0.529170" qw="-1.970261" translateFirst="true">
+            <Slot name="头顶状态点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点" bonename="m_Bip01_R_Hand" x="42.180157" y="2.594166" z="7.053276" qx="0.554148" qy="0.617671" qz="0.558035" qw="-4.049777" translateFirst="true">
+            <Slot name="武器特效点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点" bonename="m_Bip01_R_Hand" x="42.180199" y="2.594166" z="7.053261" qx="0.554147" qy="0.617671" qz="0.558035" qw="-4.049776" translateFirst="true">
+            <Slot name="武器特效点" object="" attribs="" />
+        </Locator>
+        <Locator name="右肩" bonename="m_youjianjia" x="10.168064" y="0.023937" z="2.990204" qx="0.113545" qy="-0.000520" qz="0.993533" qw="-3.132477" translateFirst="true">
+            <Slot name="右肩" object="" attribs="" />
+        </Locator>
+        <Locator name="右武器绑定点" bonename="Bone02_m" x="-0.000008" y="-0.000004" z="-0.000004" qx="0.707107" qy="0.707107" qz="0.000000" qw="-3.141593" translateFirst="true">
+            <Slot name="右武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="右足踩地点" bonename="m_Bip01_R_Foot" x="12.601961" y="1.757787" z="-0.592884" qx="-0.576505" qy="-0.579034" qz="-0.576507" qw="-2.091873" translateFirst="true">
+            <Slot name="右足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="左肩" bonename="m_zuojianjia" x="10.168242" y="0.023864" z="-2.990204" qx="0.993523" qy="0.004557" qz="0.113543" qw="-3.142634" translateFirst="true">
+            <Slot name="左肩" object="" attribs="" />
+        </Locator>
+        <Locator name="左武器绑定点" bonename="Bone02_m_mirror01" x="0.000000" y="-0.000008" z="-0.000011" qx="0.577351" qy="0.577351" qz="0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="左武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="左足踩地点" bonename="m_Bip01_L_Foot" x="12.601957" y="1.757792" z="0.593246" qx="0.578190" qy="0.575666" qz="0.578191" qw="-4.186261" translateFirst="true">
+            <Slot name="左足踩地点" object="" attribs="" />
+        </Locator>
+    </Locators>
+    <Effects>
+        <Effect name="1" effect="wq_96级神器唐门弩升星_自身_01" locator="武器特效点" translateAll="true" />
+        <Effect name="2" effect="wq_96级神器唐门弩升星_自身_02" locator="武器特效点" translateAll="true" />
+        <Effect name="3" effect="wq_96级神器唐门弩升星_自身_04" locator="武器特效点" translateAll="true" />
+        <Effect name="4" effect="wq_96级神器唐门弩升星_自身_05" locator="武器特效点" translateAll="true" />
+    </Effects>
+    <Attributes>
+        <Attribute name="脚下光圈点" value="" hints="SlotCreate" />
+        <Attribute name="身体受击点" value="" hints="SlotCreate" />
+        <Attribute name="头顶状态点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点" value="" hints="SlotCreate" />
+        <Attribute name="右肩" value="" hints="SlotCreate" />
+        <Attribute name="右武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="右足踩地点" value="" hints="SlotCreate" />
+        <Attribute name="左肩" value="" hints="SlotCreate" />
+        <Attribute name="左武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="左足踩地点" value="" hints="SlotCreate" />
+    </Attributes>
+</Object>
+<Object name="男主角高模天山.obj">
+    <EntityList>
+        <Entity name="男主角高模2天山" file="男主角高模2天山.mesh" material="" />
+        <Entity name="男主角高模3天山" file="男主角高模3天山.mesh" material="" />
+        <Entity name="男主角高模4天山" file="男主角高模4天山.mesh" material="" />
+        <Entity name="Hair天山" file="Hair天山.mesh" material="" />
+        <Entity name="男主角高模1天山" file="男主角高模1天山.mesh" material="" />
+        <Entity name="Face天山" file="Face天山.mesh" material="" />
+        <Entity name="天山huan男" file="天山huan男.mesh" material="" />
+        <Entity name="天山huanNAN" file="天山huanNAN.mesh" material="" />
+    </EntityList>
+    <Locators count="14">
+        <Locator name="左足踩地点" bonename="m_Bip01_L_Foot" x="12.601938" y="1.757789" z="0.593246" qx="0.578190" qy="0.575667" qz="0.578191" qw="-4.186261" translateFirst="true">
+            <Slot name="左足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="右足踩地点" bonename="m_Bip01_R_Foot" x="12.601946" y="1.757785" z="-0.592882" qx="-0.576505" qy="-0.579034" qz="-0.576507" qw="-2.091873" translateFirst="true">
+            <Slot name="右足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="头顶状态点" bonename="m_Bip01_Head" x="26.152040" y="-5.861748" z="-0.000015" qx="0.682810" qy="0.503735" qz="-0.529170" qw="-1.970261" translateFirst="true">
+            <Slot name="头顶状态点" object="" attribs="" />
+        </Locator>
+        <Locator name="左武器绑定点" bonename="m_Bip01_L_Hand" x="10.169680" y="5.600020" z="-1.959046" qx="0.999575" qy="-0.021187" qz="-0.020037" qw="-1.626364" translateFirst="true">
+            <Slot name="左武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="左肩" bonename="m_Bip01_L_Clavicle" x="9.586967" y="-1.776098" z="7.354746" qx="0.984164" qy="0.046481" qz="0.171058" qw="-3.016291" translateFirst="true">
+            <Slot name="左肩" object="" attribs="" />
+        </Locator>
+        <Locator name="右武器绑定点" bonename="m_Bip01_R_Hand" x="10.169807" y="5.599521" z="1.958695" qx="-0.999575" qy="0.021187" qz="-0.020035" qw="-1.626365" translateFirst="true">
+            <Slot name="右武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="右肩" bonename="m_Bip01_R_Clavicle" x="9.586940" y="-1.775933" z="-7.354260" qx="0.170906" qy="0.062677" qz="0.983292" qw="-3.048774" translateFirst="true">
+            <Slot name="右肩" object="" attribs="" />
+        </Locator>
+        <Locator name="身体受击点" bonename="m_Bip01_Spine1" x="8.623808" y="17.444510" z="0.000061" qx="-0.576460" qy="-0.586310" qz="0.569152" qw="-2.075406" translateFirst="true">
+            <Slot name="身体受击点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体中心点" bonename="m_Bip01_Spine1" x="2.523163" y="-3.928972" z="0.000031" qx="0.523966" qy="0.602271" qz="-0.602270" qw="-2.176319" translateFirst="true">
+            <Slot name="身体中心点" object="" attribs="" />
+        </Locator>
+        <Locator name="脚下光圈点" bonename="" x="0.000000" y="-0.000002" z="0.000000" qx="-0.577350" qy="0.577350" qz="-0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="脚下光圈点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点2" bonename="男天山右手武器" x="12.745028" y="-7.358717" z="3.265406" qx="0.996312" qy="0.079378" qz="-0.032594" qw="-3.147351" translateFirst="true">
+            <Slot name="武器特效点2" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点1" bonename="男天山右手武器" x="18.436892" y="-42.729717" z="3.264086" qx="-0.517052" qy="-0.648764" qz="0.558356" qw="-2.040968" translateFirst="true">
+            <Slot name="武器特效点1" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点05" bonename="男天山左手武器" x="13.206372" y="11.173886" z="0.968066" qx="0.079473" qy="0.996829" qz="-0.004061" qw="-3.075288" translateFirst="true">
+            <Slot name="武器特效点05" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点04" bonename="男天山左手武器" x="18.866837" y="46.546673" z="0.489646" qx="0.519391" qy="-0.651117" qz="-0.553426" qw="-2.049641" translateFirst="true">
+            <Slot name="武器特效点04" object="" attribs="" />
+        </Locator>
+    </Locators>
+    <Attributes>
+        <Attribute name="脚下光圈点" value="" hints="SlotCreate" />
+        <Attribute name="身体受击点" value="" hints="SlotCreate" />
+        <Attribute name="身体中心点" value="" hints="SlotCreate" />
+        <Attribute name="头顶状态点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点04" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点05" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点1" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点2" value="" hints="SlotCreate" />
+        <Attribute name="右肩" value="" hints="SlotCreate" />
+        <Attribute name="右武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="右足踩地点" value="" hints="SlotCreate" />
+        <Attribute name="左肩" value="" hints="SlotCreate" />
+        <Attribute name="左武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="左足踩地点" value="" hints="SlotCreate" />
+    </Attributes>
+    <Effects>
+        <Effect name="1" effect="wq_九大门派神器天山01" locator="武器特效点2" translateAll="true" />
+        <Effect name="2" effect="wq_九大门派神器天山01" locator="武器特效点05" translateAll="true" />
+    </Effects>
+</Object>
+<Object name="男主角高模姑苏慕容.obj">
+    <EntityList>
+        <Entity name="男主角高模4姑苏慕容高级100" file="男主角高模4姑苏慕容高级100.mesh" material="" />
+        <Entity name="男主角高模3姑苏慕容高级100" file="男主角高模3姑苏慕容高级100.mesh" material="" />
+        <Entity name="男主角高模1姑苏慕容高级100" file="男主角高模1姑苏慕容高级100.mesh" material="" />
+        <Entity name="男主角高模2姑苏慕容高级100" file="男主角高模2姑苏慕容高级100.mesh" material="" />
+        <Entity name="男姑苏莫容高模脸01" file="男姑苏莫容高模脸01.mesh" material="" />
+        <Entity name="男姑苏莫容高模发01" file="男姑苏莫容高模发01.mesh" material="" />
+        <Entity name="男神器姑苏" file="男神器姑苏.mesh" material="" />
+    </EntityList>
+    <Locators count="12">
+        <Locator name="头顶状态点" bonename="m_Bip01_Head" x="26.152040" y="-5.861749" z="-0.000015" qx="0.682810" qy="0.503735" qz="-0.529170" qw="-1.970261" translateFirst="true">
+            <Slot name="头顶状态点" object="" attribs="" />
+        </Locator>
+        <Locator name="右肩" bonename="m_Bip01_R_Clavicle" x="9.586941" y="-1.775934" z="-7.354262" qx="0.170906" qy="0.062677" qz="0.983292" qw="-3.048774" translateFirst="true">
+            <Slot name="右肩" object="" attribs="" />
+        </Locator>
+        <Locator name="左肩" bonename="m_Bip01_L_Clavicle" x="9.586967" y="-1.776096" z="7.354748" qx="0.984164" qy="0.046481" qz="0.171058" qw="-3.016291" translateFirst="true">
+            <Slot name="左肩" object="" attribs="" />
+        </Locator>
+        <Locator name="身体受击点" bonename="m_Bip01_Spine1" x="8.623809" y="17.444508" z="0.000061" qx="-0.576460" qy="-0.586310" qz="0.569152" qw="-2.075406" translateFirst="true">
+            <Slot name="身体受击点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体中心点" bonename="m_Bip01_Spine1" x="2.523163" y="-3.928974" z="0.000031" qx="0.523966" qy="0.602271" qz="-0.602270" qw="-2.176319" translateFirst="true">
+            <Slot name="身体中心点" object="" attribs="" />
+        </Locator>
+        <Locator name="左武器绑定点" bonename="m_Bip01_L_Hand" x="9.568638" y="2.523930" z="-5.987975" qx="0.986786" qy="-0.161981" qz="-0.003814" qw="-1.502759" translateFirst="true">
+            <Slot name="左武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="右武器绑定点" bonename="m_Bip01_R_Hand" x="8.581081" y="2.367034" z="7.435003" qx="-0.986787" qy="0.161981" qz="-0.003813" qw="-1.502761" translateFirst="true">
+            <Slot name="右武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="右足踩地点" bonename="m_Bip01_R_Foot" x="12.601946" y="1.757785" z="-0.592882" qx="-0.576505" qy="-0.579034" qz="-0.576507" qw="-2.091873" translateFirst="true">
+            <Slot name="右足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="脚下光圈点" bonename="" x="0.000000" y="-0.000002" z="0.000000" qx="-0.577350" qy="0.577350" qz="-0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="脚下光圈点" object="" attribs="" />
+        </Locator>
+        <Locator name="左足踩地点" bonename="m_Bip01_L_Foot" x="12.601938" y="1.757789" z="0.593245" qx="0.578190" qy="0.575667" qz="0.578191" qw="-4.186261" translateFirst="true">
+            <Slot name="左足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="特效点00" bonename="Bone09" x="130.985245" y="-1.775014" z="-0.943550" qx="0.582120" qy="0.579117" qz="-0.570753" qw="-4.163711" translateFirst="true">
+            <Slot name="特效点00" object="" attribs="" />
+        </Locator>
+        <Locator name="特效点01" bonename="Bone09" x="20.294106" y="-0.528162" z="-0.251496" qx="0.582121" qy="0.579117" qz="-0.570753" qw="-4.163710" translateFirst="true">
+            <Slot name="特效点01" object="" attribs="" />
+        </Locator>
+    </Locators>
+    <Attributes>
+        <Attribute name="脚下光圈点" value="" hints="SlotCreate" />
+        <Attribute name="身体受击点" value="" hints="SlotCreate" />
+        <Attribute name="身体中心点" value="" hints="SlotCreate" />
+        <Attribute name="特效点00" value="" hints="SlotCreate" />
+        <Attribute name="特效点01" value="" hints="SlotCreate" />
+        <Attribute name="头顶状态点" value="" hints="SlotCreate" />
+        <Attribute name="右肩" value="" hints="SlotCreate" />
+        <Attribute name="右武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="右足踩地点" value="" hints="SlotCreate" />
+        <Attribute name="左肩" value="" hints="SlotCreate" />
+        <Attribute name="左武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="左足踩地点" value="" hints="SlotCreate" />
+    </Attributes>
+    <Effects>
+        <Effect name="1" effect="wq_96新门派神器姑苏" locator="特效点01" translateAll="true" />
+    </Effects>
+</Object>
+<Object name="男主角高模少林.obj">
+    <EntityList>
+        <Entity name="男主角高模5少林高级100" file="男主角高模5少林高级100.mesh" material="" />
+        <Entity name="男主角高模4少林高级100" file="男主角高模4少林高级100.mesh" material="" />
+        <Entity name="男主角高模2少林高级100" file="男主角高模2少林高级100.mesh" material="" />
+        <Entity name="男主角高模6少林高级100" file="男主角高模6少林高级100.mesh" material="" />
+        <Entity name="男主角高模1少林高级100" file="男主角高模1少林高级100.mesh" material="" />
+        <Entity name="男主角高模3少林高级100" file="男主角高模3少林高级100.mesh" material="" />
+        <Entity name="少林男脸" file="少林男脸.mesh" material="" />
+        <Entity name="少林头发" file="少林头发.mesh" material="" />
+        <Entity name="禅杖NAN" file="禅杖NAN.mesh" material="" />
+    </EntityList>
+    <Locators count="12">
+        <Locator name="脚下光圈点" bonename="" x="0.000000" y="-0.000002" z="0.000000" qx="-0.577350" qy="0.577350" qz="-0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="脚下光圈点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体中心点" bonename="m_Bip01_Spine1" x="2.523161" y="-3.928972" z="0.000031" qx="0.523966" qy="0.602271" qz="-0.602270" qw="-2.176319" translateFirst="true">
+            <Slot name="身体中心点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体受击点" bonename="m_Bip01_Spine1" x="8.623806" y="17.444510" z="0.000061" qx="-0.576460" qy="-0.586310" qz="0.569152" qw="-2.075406" translateFirst="true">
+            <Slot name="身体受击点" object="" attribs="" />
+        </Locator>
+        <Locator name="右肩" bonename="m_Bip01_R_Clavicle" x="9.586942" y="-1.775933" z="-7.354259" qx="0.170906" qy="0.062677" qz="0.983292" qw="-3.048774" translateFirst="true">
+            <Slot name="右肩" object="" attribs="" />
+        </Locator>
+        <Locator name="右武器绑定点" bonename="m_Bip01_R_Hand" x="10.169807" y="5.599519" z="1.958693" qx="-0.999575" qy="0.021187" qz="-0.020035" qw="-1.626365" translateFirst="true">
+            <Slot name="右武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="左肩" bonename="m_Bip01_L_Clavicle" x="9.586967" y="-1.776097" z="7.354745" qx="0.984164" qy="0.046481" qz="0.171058" qw="-3.016291" translateFirst="true">
+            <Slot name="左肩" object="" attribs="" />
+        </Locator>
+        <Locator name="左武器绑定点" bonename="m_Bip01_L_Hand" x="10.169680" y="5.600019" z="-1.959044" qx="0.999575" qy="-0.021187" qz="-0.020037" qw="-1.626364" translateFirst="true">
+            <Slot name="左武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="头顶状态点" bonename="m_Bip01_Head" x="26.152029" y="-5.861748" z="-0.000015" qx="0.682810" qy="0.503735" qz="-0.529170" qw="-1.970261" translateFirst="true">
+            <Slot name="头顶状态点" object="" attribs="" />
+        </Locator>
+        <Locator name="右足踩地点" bonename="m_Bip01_R_Foot" x="12.601946" y="1.757785" z="-0.592883" qx="-0.576505" qy="-0.579034" qz="-0.576507" qw="-2.091873" translateFirst="true">
+            <Slot name="右足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="左足踩地点" bonename="m_Bip01_L_Foot" x="12.601938" y="1.757789" z="0.593246" qx="0.578190" qy="0.575667" qz="0.578191" qw="-4.186261" translateFirst="true">
+            <Slot name="左足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点" bonename="Bone19" x="47.504452" y="0.000037" z="0.000016" qx="0.707107" qy="0.707107" qz="0.000000" qw="-3.141593" translateFirst="true">
+            <Slot name="武器特效点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点1" bonename="Bone19" x="133.990799" y="0.000079" z="0.000030" qx="0.707107" qy="0.707107" qz="0.000000" qw="-3.141593" translateFirst="true">
+            <Slot name="武器特效点1" object="" attribs="" />
+        </Locator>
+    </Locators>
+    <Attributes>
+        <Attribute name="脚下光圈点" value="" hints="SlotCreate" />
+        <Attribute name="身体受击点" value="" hints="SlotCreate" />
+        <Attribute name="身体中心点" value="" hints="SlotCreate" />
+        <Attribute name="头顶状态点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点1" value="" hints="SlotCreate" />
+        <Attribute name="右肩" value="" hints="SlotCreate" />
+        <Attribute name="右武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="右足踩地点" value="" hints="SlotCreate" />
+        <Attribute name="左肩" value="" hints="SlotCreate" />
+        <Attribute name="左武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="左足踩地点" value="" hints="SlotCreate" />
+    </Attributes>
+    <Effects>
+        <Effect name="1" effect="wq_九大门派神器少林禅杖01" locator="武器特效点" translateAll="true" />
+    </Effects>
+</Object>
+<Object name="男主角高模峨眉.obj">
+    <EntityList>
+        <Entity name="男主角高模峨眉脸06" file="男主角高模峨眉脸06.mesh" material="" />
+        <Entity name="男主角高模1峨眉高级100" file="男主角高模1峨眉高级100.mesh" material="" />
+        <Entity name="男主角高模2峨眉高级100" file="男主角高模2峨眉高级100.mesh" material="" />
+        <Entity name="男主角高模3峨眉高级100" file="男主角高模3峨眉高级100.mesh" material="" />
+        <Entity name="男主角高模4峨眉高级100" file="男主角高模4峨眉高级100.mesh" material="" />
+        <Entity name="男主角高模峨眉头发01" file="男主角高模峨眉头发01.mesh" material="" />
+        <Entity name="峨眉器男" file="峨眉器男.mesh" material="" />
+    </EntityList>
+    <Locators count="12">
+        <Locator name="脚下光圈点" bonename="" x="0.000000" y="-0.000002" z="0.000000" qx="-0.577350" qy="0.577350" qz="-0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="脚下光圈点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体中心点" bonename="m_Bip01_Spine1" x="2.523145" y="-3.928974" z="0.000031" qx="0.523966" qy="0.602271" qz="-0.602270" qw="-2.176319" translateFirst="true">
+            <Slot name="身体中心点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体受击点" bonename="m_Bip01_Spine1" x="8.623791" y="17.444510" z="0.000061" qx="-0.576460" qy="-0.586311" qz="0.569152" qw="-2.075406" translateFirst="true">
+            <Slot name="身体受击点" object="" attribs="" />
+        </Locator>
+        <Locator name="右肩" bonename="m_Bip01_R_Clavicle" x="9.586940" y="-1.775934" z="-7.354258" qx="0.170906" qy="0.062677" qz="0.983292" qw="-3.048774" translateFirst="true">
+            <Slot name="右肩" object="" attribs="" />
+        </Locator>
+        <Locator name="右武器绑定点" bonename="m_Bip01_R_Hand" x="10.169807" y="5.599525" z="1.958688" qx="-0.999575" qy="0.021187" qz="-0.020035" qw="-1.626365" translateFirst="true">
+            <Slot name="右武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="左肩" bonename="m_Bip01_L_Clavicle" x="9.586965" y="-1.776098" z="7.354744" qx="0.984164" qy="0.046481" qz="0.171058" qw="-3.016291" translateFirst="true">
+            <Slot name="左肩" object="" attribs="" />
+        </Locator>
+        <Locator name="左武器绑定点" bonename="m_Bip01_L_Hand" x="10.169675" y="5.600019" z="-1.959052" qx="0.999575" qy="-0.021186" qz="-0.020036" qw="-1.626364" translateFirst="true">
+            <Slot name="左武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="头顶状态点" bonename="m_Bip01_Head" x="26.152016" y="-5.861748" z="-0.000015" qx="0.682810" qy="0.503735" qz="-0.529170" qw="-1.970261" translateFirst="true">
+            <Slot name="头顶状态点" object="" attribs="" />
+        </Locator>
+        <Locator name="右足踩地点" bonename="m_Bip01_R_Foot" x="12.601946" y="1.757785" z="-0.592882" qx="-0.576505" qy="-0.579034" qz="-0.576507" qw="-2.091873" translateFirst="true">
+            <Slot name="右足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="左足踩地点" bonename="m_Bip01_L_Foot" x="12.601938" y="1.757789" z="0.593245" qx="0.578190" qy="0.575666" qz="0.578191" qw="-4.186261" translateFirst="true">
+            <Slot name="左足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点1" bonename="bone_右手武器" x="145.985626" y="-0.000078" z="0.039891" qx="-0.577351" qy="-0.577350" qz="0.577350" qw="-2.094394" translateFirst="true">
+            <Slot name="武器特效点1" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点" bonename="bone_右手武器" x="20.188122" y="-0.000029" z="0.039840" qx="-0.577351" qy="-0.577350" qz="0.577350" qw="-2.094394" translateFirst="true">
+            <Slot name="武器特效点" object="" attribs="" />
+        </Locator>
+    </Locators>
+    <Attributes>
+        <Attribute name="脚下光圈点" value="" hints="SlotCreate" />
+        <Attribute name="身体受击点" value="" hints="SlotCreate" />
+        <Attribute name="身体中心点" value="" hints="SlotCreate" />
+        <Attribute name="头顶状态点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点1" value="" hints="SlotCreate" />
+        <Attribute name="右肩" value="" hints="SlotCreate" />
+        <Attribute name="右武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="右足踩地点" value="" hints="SlotCreate" />
+        <Attribute name="左肩" value="" hints="SlotCreate" />
+        <Attribute name="左武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="左足踩地点" value="" hints="SlotCreate" />
+    </Attributes>
+    <Effects>
+        <Effect name="1" effect="wq_九大门派神器峨眉01" locator="武器特效点" translateAll="true" />
+    </Effects>
+</Object>
+<Object name="男主角高模明教.obj">
+    <EntityList>
+        <Entity name="男主角高模1明教高级100" file="男主角高模1明教高级100.mesh" material="" />
+        <Entity name="男主角高模2明教高级100" file="男主角高模2明教高级100.mesh" material="" />
+        <Entity name="高模3明教" file="高模3明教.mesh" material="" />
+        <Entity name="男主角高模4明教高级100" file="男主角高模4明教高级100.mesh" material="" />
+        <Entity name="4脸" file="4脸.mesh" material="" />
+        <Entity name="少爷发型" file="少爷发型.mesh" material="" />
+        <Entity name="明教刀" file="明教刀.mesh" material="" />
+    </EntityList>
+    <Locators count="12">
+        <Locator name="脚下光圈点" bonename="" x="0.000000" y="-0.000002" z="0.000000" qx="-0.577350" qy="0.577350" qz="-0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="脚下光圈点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体中心点" bonename="m_Bip01_Spine1" x="2.523162" y="-3.928972" z="0.000031" qx="0.523966" qy="0.602271" qz="-0.602270" qw="-2.176319" translateFirst="true">
+            <Slot name="身体中心点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体受击点" bonename="m_Bip01_Spine1" x="8.623808" y="17.444510" z="0.000061" qx="-0.576460" qy="-0.586310" qz="0.569152" qw="-2.075406" translateFirst="true">
+            <Slot name="身体受击点" object="" attribs="" />
+        </Locator>
+        <Locator name="右肩" bonename="m_Bip01_R_Clavicle" x="9.586940" y="-1.775933" z="-7.354260" qx="0.170906" qy="0.062677" qz="0.983292" qw="-3.048774" translateFirst="true">
+            <Slot name="右肩" object="" attribs="" />
+        </Locator>
+        <Locator name="右武器绑定点" bonename="m_Bip01_R_Hand" x="10.169807" y="5.599521" z="1.958695" qx="-0.999575" qy="0.021187" qz="-0.020035" qw="-1.626365" translateFirst="true">
+            <Slot name="右武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="左肩" bonename="m_Bip01_L_Clavicle" x="9.586967" y="-1.776097" z="7.354746" qx="0.984164" qy="0.046481" qz="0.171058" qw="-3.016291" translateFirst="true">
+            <Slot name="左肩" object="" attribs="" />
+        </Locator>
+        <Locator name="左武器绑定点" bonename="m_Bip01_L_Hand" x="10.169680" y="5.600020" z="-1.959046" qx="0.999575" qy="-0.021187" qz="-0.020037" qw="-1.626364" translateFirst="true">
+            <Slot name="左武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="头顶状态点" bonename="m_Bip01_Head" x="26.152042" y="-5.861751" z="-0.000015" qx="0.682810" qy="0.503735" qz="-0.529170" qw="-1.970261" translateFirst="true">
+            <Slot name="头顶状态点" object="" attribs="" />
+        </Locator>
+        <Locator name="右足踩地点" bonename="m_Bip01_R_Foot" x="12.601946" y="1.757785" z="-0.592883" qx="-0.576505" qy="-0.579034" qz="-0.576507" qw="-2.091873" translateFirst="true">
+            <Slot name="右足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="左足踩地点" bonename="m_Bip01_L_Foot" x="12.601938" y="1.757789" z="0.593246" qx="0.578190" qy="0.575667" qz="0.578191" qw="-4.186261" translateFirst="true">
+            <Slot name="左足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点1" bonename="m_Bip01_R_Hand" x="3.625420" y="-10.864916" z="182.264069" qx="0.543340" qy="0.560310" qz="0.625167" qw="-4.093600" translateFirst="true">
+            <Slot name="武器特效点1" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点" bonename="m_Bip01_R_Hand" x="6.005318" y="-3.781593" z="98.266991" qx="0.543340" qy="0.560310" qz="0.625167" qw="-4.093600" translateFirst="true">
+            <Slot name="武器特效点" object="" attribs="" />
+        </Locator>
+    </Locators>
+    <Attributes>
+        <Attribute name="脚下光圈点" value="" hints="SlotCreate" />
+        <Attribute name="身体受击点" value="" hints="SlotCreate" />
+        <Attribute name="身体中心点" value="" hints="SlotCreate" />
+        <Attribute name="头顶状态点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点1" value="" hints="SlotCreate" />
+        <Attribute name="右肩" value="" hints="SlotCreate" />
+        <Attribute name="右武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="右足踩地点" value="" hints="SlotCreate" />
+        <Attribute name="左肩" value="" hints="SlotCreate" />
+        <Attribute name="左武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="左足踩地点" value="" hints="SlotCreate" />
+    </Attributes>
+    <Effects>
+        <Effect name="1" effect="wq_九大门派神器明教刀01" locator="武器特效点" translateAll="true" />
+    </Effects>
+</Object>
+<Object name="男主角高模星宿.obj">
+    <EntityList>
+        <Entity name="男主角高模1星宿高级100" file="男主角高模1星宿高级100.mesh" material="" />
+        <Entity name="男主角高模2星宿高级100" file="男主角高模2星宿高级100.mesh" material="" />
+        <Entity name="男主角高模3星宿高级100" file="男主角高模3星宿高级100.mesh" material="" />
+        <Entity name="男主角高模4星宿高级100" file="男主角高模4星宿高级100.mesh" material="" />
+        <Entity name="男高星宿脸03" file="男高星宿脸03.mesh" material="" />
+        <Entity name="男高星宿头发03" file="男高星宿头发03.mesh" material="" />
+        <Entity name="九星钩钩左" file="九星钩钩左.mesh" material="" />
+        <Entity name="九星钩钩右" file="九星钩钩右.mesh" material="" />
+    </EntityList>
+    <Locators count="14">
+        <Locator name="右武器绑定点" bonename="m_Bip01_R_Hand" x="10.169809" y="5.599521" z="1.958680" qx="-0.999575" qy="0.021187" qz="-0.020035" qw="-1.626365" translateFirst="true">
+            <Slot name="右武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="右肩" bonename="m_Bip01_R_Clavicle" x="9.586940" y="-1.775934" z="-7.354258" qx="0.170906" qy="0.062677" qz="0.983292" qw="-3.048774" translateFirst="true">
+            <Slot name="右肩" object="" attribs="" />
+        </Locator>
+        <Locator name="左肩" bonename="m_Bip01_L_Clavicle" x="9.586967" y="-1.776096" z="7.354753" qx="0.984164" qy="0.046481" qz="0.171058" qw="-3.016291" translateFirst="true">
+            <Slot name="左肩" object="" attribs="" />
+        </Locator>
+        <Locator name="左武器绑定点" bonename="m_Bip01_L_Hand" x="10.169680" y="5.600018" z="-1.959040" qx="0.999575" qy="-0.021187" qz="-0.020037" qw="-1.626364" translateFirst="true">
+            <Slot name="左武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="脚下光圈点" bonename="" x="0.000000" y="-0.000002" z="0.000000" qx="-0.577350" qy="0.577350" qz="-0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="脚下光圈点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体中心点" bonename="m_Bip01_Spine1" x="2.523163" y="-3.928973" z="0.000031" qx="0.523966" qy="0.602271" qz="-0.602270" qw="-2.176319" translateFirst="true">
+            <Slot name="身体中心点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体受击点" bonename="m_Bip01_Spine1" x="8.623809" y="17.444510" z="0.000061" qx="-0.576460" qy="-0.586310" qz="0.569152" qw="-2.075406" translateFirst="true">
+            <Slot name="身体受击点" object="" attribs="" />
+        </Locator>
+        <Locator name="头顶状态点" bonename="m_Bip01_Head" x="26.152029" y="-5.861749" z="-0.000015" qx="0.682810" qy="0.503735" qz="-0.529170" qw="-1.970261" translateFirst="true">
+            <Slot name="头顶状态点" object="" attribs="" />
+        </Locator>
+        <Locator name="右足踩地点" bonename="m_Bip01_R_Foot" x="12.601946" y="1.757785" z="-0.592883" qx="-0.576505" qy="-0.579034" qz="-0.576507" qw="-2.091873" translateFirst="true">
+            <Slot name="右足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="左足踩地点" bonename="m_Bip01_L_Foot" x="12.601938" y="1.757789" z="0.593246" qx="0.578190" qy="0.575667" qz="0.578191" qw="-4.186261" translateFirst="true">
+            <Slot name="左足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点1" bonename="Bone02" x="106.672005" y="-3.592128" z="-0.403456" qx="-0.551901" qy="-0.535962" qz="0.638866" qw="-2.037836" translateFirst="true">
+            <Slot name="武器特效点1" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点11111" bonename="Bone01" x="104.527031" y="-2.761541" z="-0.233281" qx="0.586807" qy="0.570716" qz="-0.574405" qw="-4.152332" translateFirst="true">
+            <Slot name="武器特效点11111" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点0000" bonename="Bone01" x="17.761274" y="0.058595" z="0.184769" qx="0.586807" qy="0.570716" qz="-0.574405" qw="-4.152332" translateFirst="true">
+            <Slot name="武器特效点0000" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点" bonename="Bone02" x="19.909195" y="-0.670439" z="-0.075299" qx="-0.551901" qy="-0.535962" qz="0.638866" qw="-2.037836" translateFirst="true">
+            <Slot name="武器特效点" object="" attribs="" />
+        </Locator>
+    </Locators>
+    <Attributes>
+        <Attribute name="脚下光圈点" value="" hints="SlotCreate" />
+        <Attribute name="身体受击点" value="" hints="SlotCreate" />
+        <Attribute name="身体中心点" value="" hints="SlotCreate" />
+        <Attribute name="头顶状态点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点0000" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点1" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点11111" value="" hints="SlotCreate" />
+        <Attribute name="右肩" value="" hints="SlotCreate" />
+        <Attribute name="右武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="右足踩地点" value="" hints="SlotCreate" />
+        <Attribute name="左肩" value="" hints="SlotCreate" />
+        <Attribute name="左武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="左足踩地点" value="" hints="SlotCreate" />
+    </Attributes>
+    <Effects>
+        <Effect name="1" effect="wq_九大门派神器星宿钩01" locator="武器特效点" translateAll="true" />
+        <Effect name="2" effect="wq_九大门派神器星宿钩01" locator="武器特效点0000" translateAll="true" />
+    </Effects>
+</Object>
+<Object name="男主角高模武当.obj">
+    <EntityList>
+        <Entity name="男主角高模4武当高级100" file="男主角高模4武当高级100.mesh" material="" />
+        <Entity name="男主角高模3武当高级100" file="男主角高模3武当高级100.mesh" material="" />
+        <Entity name="男主角高模2武当高级100" file="男主角高模2武当高级100.mesh" material="" />
+        <Entity name="男主角高模5武当高级100" file="男主角高模5武当高级100.mesh" material="" />
+        <Entity name="男主角高模1武当高级100" file="男主角高模1武当高级100.mesh" material="" />
+        <Entity name="男武当脸" file="男武当脸.mesh" material="" />
+        <Entity name="武当男头发" file="武当男头发.mesh" material="" />
+        <Entity name="武当剑男" file="武当剑男.mesh" material="" />
+    </EntityList>
+    <Locators count="12">
+        <Locator name="左武器绑定点" bonename="m_Bip01_L_Hand" x="10.169681" y="5.600022" z="-1.959042" qx="0.999575" qy="-0.021187" qz="-0.020037" qw="-1.626363" translateFirst="true">
+            <Slot name="左武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="右武器绑定点" bonename="m_Bip01_R_Hand" x="10.169814" y="5.599528" z="1.958694" qx="-0.999575" qy="0.021187" qz="-0.020035" qw="-1.626365" translateFirst="true">
+            <Slot name="右武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="右足踩地点" bonename="m_Bip01_R_Foot" x="12.601944" y="1.757786" z="-0.592882" qx="-0.576506" qy="-0.579034" qz="-0.576507" qw="-2.091873" translateFirst="true">
+            <Slot name="右足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="脚下光圈点" bonename="" x="0.000000" y="-0.000002" z="0.000000" qx="-0.577350" qy="0.577350" qz="-0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="脚下光圈点" object="" attribs="" />
+        </Locator>
+        <Locator name="左足踩地点" bonename="m_Bip01_L_Foot" x="12.601938" y="1.757790" z="0.593243" qx="0.578189" qy="0.575667" qz="0.578191" qw="-4.186261" translateFirst="true">
+            <Slot name="左足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="右肩" bonename="m_Bip01_R_Clavicle" x="9.586941" y="-1.775934" z="-7.354260" qx="0.170906" qy="0.062677" qz="0.983292" qw="-3.048774" translateFirst="true">
+            <Slot name="右肩" object="" attribs="" />
+        </Locator>
+        <Locator name="身体受击点" bonename="m_Bip01_Spine1" x="8.623792" y="17.444508" z="0.000084" qx="-0.576460" qy="-0.586311" qz="0.569152" qw="-2.075405" translateFirst="true">
+            <Slot name="身体受击点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体中心点" bonename="m_Bip01_Spine1" x="2.523146" y="-3.928973" z="0.000053" qx="0.523966" qy="0.602271" qz="-0.602270" qw="-2.176319" translateFirst="true">
+            <Slot name="身体中心点" object="" attribs="" />
+        </Locator>
+        <Locator name="左肩" bonename="m_Bip01_L_Clavicle" x="9.586967" y="-1.776097" z="7.354745" qx="0.984164" qy="0.046481" qz="0.171058" qw="-3.016291" translateFirst="true">
+            <Slot name="左肩" object="" attribs="" />
+        </Locator>
+        <Locator name="头顶状态点" bonename="m_Bip01_Head" x="26.152029" y="-5.861747" z="-0.000015" qx="0.682810" qy="0.503735" qz="-0.529170" qw="-1.970261" translateFirst="true">
+            <Slot name="头顶状态点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点" bonename="Bone02" x="16.437735" y="0.500715" z="0.278705" qx="0.705963" qy="0.703950" qz="-0.077910" qw="-3.283540" translateFirst="true">
+            <Slot name="武器特效点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点1" bonename="Bone02" x="165.402161" y="-0.070499" z="-1.101470" qx="0.705963" qy="0.703950" qz="-0.077910" qw="-3.283540" translateFirst="true">
+            <Slot name="武器特效点1" object="" attribs="" />
+        </Locator>
+    </Locators>
+    <Attributes>
+        <Attribute name="脚下光圈点" value="" hints="SlotCreate" />
+        <Attribute name="身体受击点" value="" hints="SlotCreate" />
+        <Attribute name="身体中心点" value="" hints="SlotCreate" />
+        <Attribute name="头顶状态点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点1" value="" hints="SlotCreate" />
+        <Attribute name="右肩" value="" hints="SlotCreate" />
+        <Attribute name="右武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="右足踩地点" value="" hints="SlotCreate" />
+        <Attribute name="左肩" value="" hints="SlotCreate" />
+        <Attribute name="左武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="左足踩地点" value="" hints="SlotCreate" />
+    </Attributes>
+    <Effects>
+        <Effect name="1" effect="wq_九大门派神器武当剑01" locator="武器特效点" translateAll="true" />
+    </Effects>
+</Object>
+<Object name="男主角高模逍遥.obj">
+    <EntityList>
+        <Entity name="男主角高模1逍遥高级100" file="男主角高模1逍遥高级100.mesh" material="" />
+        <Entity name="男逍遥脸05" file="男逍遥脸05.mesh" material="" />
+        <Entity name="男逍遥头发03" file="男逍遥头发03.mesh" material="" />
+        <Entity name="男主角高模3逍遥高级100" file="男主角高模3逍遥高级100.mesh" material="" />
+        <Entity name="男主角高模2逍遥高级100" file="男主角高模2逍遥高级100.mesh" material="" />
+        <Entity name="男主角高模4逍遥高级100" file="男主角高模4逍遥高级100.mesh" material="" />
+        <Entity name="逍遥扇子" file="逍遥扇子.mesh" material="" />
+    </EntityList>
+    <Locators count="12">
+        <Locator name="左武器绑定点" bonename="m_Bip01_L_Hand" x="11.444728" y="2.862921" z="-1.442786" qx="0.992495" qy="-0.063313" qz="0.104618" qw="-1.580662" translateFirst="true">
+            <Slot name="左武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="右武器绑定点" bonename="m_Bip01_R_Hand" x="11.444717" y="2.862354" z="1.442420" qx="-0.992495" qy="0.063312" qz="0.104619" qw="-1.580664" translateFirst="true">
+            <Slot name="右武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="右足踩地点" bonename="m_Bip01_R_Foot" x="12.601950" y="1.757783" z="-0.592887" qx="-0.576506" qy="-0.579034" qz="-0.576507" qw="-2.091873" translateFirst="true">
+            <Slot name="右足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="脚下光圈点" bonename="" x="0.000000" y="-0.000002" z="0.000000" qx="-0.577350" qy="0.577350" qz="-0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="脚下光圈点" object="" attribs="" />
+        </Locator>
+        <Locator name="左足踩地点" bonename="m_Bip01_L_Foot" x="12.601939" y="1.757788" z="0.593245" qx="0.578189" qy="0.575667" qz="0.578191" qw="-4.186261" translateFirst="true">
+            <Slot name="左足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体受击点" bonename="m_Bip01_Spine1" x="8.623780" y="17.444500" z="0.000076" qx="-0.576461" qy="-0.586309" qz="0.569152" qw="-2.075407" translateFirst="true">
+            <Slot name="身体受击点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体中心点" bonename="m_Bip01_Spine1" x="2.523150" y="-3.928979" z="0.000046" qx="0.523966" qy="0.602271" qz="-0.602270" qw="-2.176319" translateFirst="true">
+            <Slot name="身体中心点" object="" attribs="" />
+        </Locator>
+        <Locator name="左肩" bonename="m_Bip01_L_Clavicle" x="9.570313" y="-1.783074" z="7.401904" qx="0.984164" qy="0.046481" qz="0.171058" qw="-3.016291" translateFirst="true">
+            <Slot name="左肩" object="" attribs="" />
+        </Locator>
+        <Locator name="右肩" bonename="m_Bip01_R_Clavicle" x="9.570289" y="-1.782891" z="-7.401422" qx="0.170906" qy="0.062677" qz="0.983292" qw="-3.048774" translateFirst="true">
+            <Slot name="右肩" object="" attribs="" />
+        </Locator>
+        <Locator name="头顶状态点" bonename="m_Bip01_Head" x="26.152039" y="-5.861757" z="-0.000015" qx="0.682809" qy="0.503735" qz="-0.529171" qw="-1.970260" translateFirst="true">
+            <Slot name="头顶状态点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点" bonename="Bone扇子逍遥" x="0.932478" y="-4.707699" z="-0.500561" qx="0.713288" qy="0.009708" qz="0.700804" qw="-3.187093" translateFirst="true">
+            <Slot name="武器特效点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点1" bonename="Bone扇子逍遥" x="-0.347052" y="-75.573433" z="2.766316" qx="-0.999829" qy="0.000407" qz="0.018475" qw="-1.525063" translateFirst="true">
+            <Slot name="武器特效点1" object="" attribs="" />
+        </Locator>
+    </Locators>
+    <Attributes>
+        <Attribute name="脚下光圈点" value="" hints="SlotCreate" />
+        <Attribute name="身体受击点" value="" hints="SlotCreate" />
+        <Attribute name="身体中心点" value="" hints="SlotCreate" />
+        <Attribute name="头顶状态点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点" value="" hints="SlotCreate" />
+        <Attribute name="武器特效点1" value="" hints="SlotCreate" />
+        <Attribute name="右肩" value="" hints="SlotCreate" />
+        <Attribute name="右武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="右足踩地点" value="" hints="SlotCreate" />
+        <Attribute name="左肩" value="" hints="SlotCreate" />
+        <Attribute name="左武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="左足踩地点" value="" hints="SlotCreate" />
+    </Attributes>
+    <Effects>
+        <Effect name="1" effect="wq_九大门派神器逍遥扇子01" locator="武器特效点" translateAll="true" />
+    </Effects>
+</Object>
+<Object name="男主角高模鬼谷高级100.obj">
+    <EntityList>
+        <Entity name="男主角高模鬼谷脸" file="男主角高模鬼谷脸.mesh" material="" />
+        <Entity name="男主角高模1鬼谷高级100" file="男主角高模1鬼谷高级100.mesh" material="" />
+        <Entity name="男主角高模2鬼谷高级100" file="男主角高模2鬼谷高级100.mesh" material="" />
+        <Entity name="男主角高模3鬼谷高级100" file="男主角高模3鬼谷高级100.mesh" material="" />
+        <Entity name="男主角高模4鬼谷高级100" file="男主角高模4鬼谷高级100.mesh" material="" />
+        <Entity name="男主角高模鬼谷头发" file="男主角高模鬼谷头发.mesh" material="" />
+    </EntityList>
+    <Locators count="24">
+        <Locator name="脚下光圈点" bonename="" x="0.000000" y="-0.000002" z="0.000000" qx="-0.577350" qy="0.577350" qz="-0.577350" qw="-2.094395" translateFirst="true">
+            <Slot name="脚下光圈点" object="" attribs="" />
+        </Locator>
+        <Locator name="头顶状态点" bonename="Bip01_Head" x="29.148880" y="-1.017015" z="-0.000015" qx="0.591586" qy="0.559019" qz="-0.580968" qw="-2.105383" translateFirst="true">
+            <Slot name="头顶状态点" object="" attribs="" />
+        </Locator>
+        <Locator name="左武器绑定点" bonename="Bip01_L_Hand" x="13.531982" y="2.300781" z="-2.785309" qx="0.991356" qy="-0.103171" qz="0.081054" qw="-1.750548" translateFirst="true">
+            <Slot name="左武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="左肩" bonename="Bip01_L_UpperArm" x="-1.141502" y="-0.669873" z="2.934998" qx="0.918447" qy="0.106601" qz="0.380908" qw="-3.147827" translateFirst="true">
+            <Slot name="左肩" object="" attribs="" />
+        </Locator>
+        <Locator name="右武器绑定点" bonename="Bip01_R_Hand" x="13.532001" y="2.300308" z="2.784851" qx="-0.991356" qy="0.103169" qz="0.081053" qw="-1.750550" translateFirst="true">
+            <Slot name="右武器绑定点" object="" attribs="" />
+        </Locator>
+        <Locator name="右肩" bonename="Bip01_R_UpperArm" x="-1.141335" y="-0.669750" z="-2.934631" qx="0.383090" qy="-0.003136" qz="0.923706" qw="-2.927980" translateFirst="true">
+            <Slot name="右肩" object="" attribs="" />
+        </Locator>
+        <Locator name="身体受击点" bonename="Bip01_Spine1" x="2.449219" y="15.347719" z="0.000031" qx="0.598304" qy="0.540665" qz="-0.591367" qw="-4.139243" translateFirst="true">
+            <Slot name="身体受击点" object="" attribs="" />
+        </Locator>
+        <Locator name="左足踩地点" bonename="Bip01_L_Foot" x="12.251566" y="-0.528047" z="-1.321547" qx="0.590166" qy="0.550824" qz="0.590167" qw="-4.148541" translateFirst="true">
+            <Slot name="左足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="右足踩地点" bonename="Bip01_R_Foot" x="12.251619" y="-0.527841" z="1.321848" qx="-0.563618" qy="-0.603877" qz="-0.563620" qw="-2.055065" translateFirst="true">
+            <Slot name="右足踩地点" object="" attribs="" />
+        </Locator>
+        <Locator name="身体中心点" bonename="Bip01_Spine" x="16.451180" y="-4.445185" z="0.000031" qx="0.613094" qy="0.558622" qz="-0.558621" qw="-2.041607" translateFirst="true">
+            <Slot name="身体中心点" object="" attribs="" />
+        </Locator>
+        <Locator name="宝石特效点" bonename="Bip01_Prop1" x="0.008523" y="-0.160271" z="79.036522" qx="-0.577351" qy="-0.577350" qz="-0.577350" qw="-2.094394" translateFirst="true">
+            <Slot name="宝石特效点" object="" attribs="" />
+        </Locator>
+        <Locator name="武器特效点" bonename="Bip01_Prop1" x="-0.067490" y="-0.178841" z="13.514153" qx="-0.577351" qy="-0.577350" qz="-0.577350" qw="-2.094394" translateFirst="true">
+            <Slot name="武器特效点" object="主角高模鬼谷武器.obj" attribs="" />
+        </Locator>
+    </Locators>
+    <Effects>
+        <Effect name="1" effect="wq_鬼谷杖神96升星_01" locator="武器特效点" translateAll="true" />
+    </Effects>
+    <Attributes>
+        <Attribute name="武器特效点" value="" hints="SlotCreate" />
+        <Attribute name="宝石特效点" value="" hints="SlotCreate" />
+        <Attribute name="脚下光圈点" value="" hints="SlotCreate" />
+        <Attribute name="身体受击点" value="" hints="SlotCreate" />
+        <Attribute name="身体中心点" value="" hints="SlotCreate" />
+        <Attribute name="头顶状态点" value="" hints="SlotCreate" />
+        <Attribute name="右肩" value="" hints="SlotCreate" />
+        <Attribute name="右武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="右足踩地点" value="" hints="SlotCreate" />
+        <Attribute name="左肩" value="" hints="SlotCreate" />
+        <Attribute name="左武器绑定点" value="" hints="SlotCreate" />
+        <Attribute name="左足踩地点" value="" hints="SlotCreate" />
+        <Attribute name="BoundingBox" value="-32.184914 0.000000 -22.886168 32.184914 198.886612 22.886168" hints="" />
+    </Attributes>
+</Object>
+</AllObjects>

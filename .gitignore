@@ -1,0 +1,22 @@
+# Local installation and private connection files: never commit these.
+/Data/
+/Connection/
+/Patch/
+/ScreenShots/
+/Bin64/ShaderCache/
+/Bin64/WXSystem.cfg
+/Overlay/Post/*
+!/Overlay/Post/ModelFolder/
+/Overlay/Post/ModelFolder/*
+!/Overlay/Post/ModelFolder/CysCreateBase.obj
+!/Overlay/Post/ModelFolder/CysSectPreview.obj
+**/client_key*
+**/known_hosts
+**/authorized_keys
+**/*.pem
+**/*.ppk
+**/.env
+**/.env.*
+*.log
+*.dmp
+*.before-*
